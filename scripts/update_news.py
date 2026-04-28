@@ -163,6 +163,28 @@ def trim_summary(summary: str, title: str) -> str:
     return summary[:180].rstrip() + ("…" if len(summary) > 180 else "")
 
 
+def make_analysis(item: RawNews, summary: str, tags: list[str], date: datetime) -> tuple[list[str], str, str]:
+    topic = "、".join(tags[:3]) if tags else "公共议题"
+    source = item.source or "相关媒体"
+    published_time = date.strftime("%H:%M GMT")
+    points = [
+        f"报道聚焦“{item.title}”，核心信息来自 {source} 的公开报道。",
+        f"从关键词看，这条新闻主要关联 {topic} 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。",
+    ]
+    background = (
+        f"这条新闻发生在 {topic} 持续受到关注的背景下。"
+        f"公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，"
+        f"因此需要结合原文和后续报道理解其完整脉络。"
+    )
+    impact = (
+        f"短期内，这一事件可能影响相关参与方的市场判断和舆论关注；"
+        f"中长期看，它也可能成为观察 {topic} 走向的一个信号。"
+        f"页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    )
+    return points, background, impact
+
+
 def build_news_json(raw_items: list[dict], now: datetime | None = None, limit: int = 10) -> dict:
     now = now or datetime.now(timezone.utc)
     seen_urls: set[str] = set()
@@ -192,6 +214,7 @@ def build_news_json(raw_items: list[dict], now: datetime | None = None, limit: i
         summary = trim_summary(item.summary, item.title)
         tags = infer_tags(item.title, summary, item.source)
         rank = f"{index:02d}"
+        points, background, impact = make_analysis(item, summary, tags, date)
         output_items.append({
             "id": slugify(item.title, used_slugs),
             "rank": rank,
@@ -203,13 +226,9 @@ def build_news_json(raw_items: list[dict], now: datetime | None = None, limit: i
             "time": date.strftime("%H:%M GMT"),
             "tags": tags,
             "originalUrl": item.url,
-            "points": [
-                f"这条新闻来自 {item.source}，发布时间为 {date.strftime('%H:%M GMT')}。",
-                "页面内容由自动更新脚本根据公开 RSS 标题、摘要和时间整理生成。",
-                "详情页保留原始报道链接，进一步信息请以原文为准。",
-            ],
-            "background": "该条目由每日新闻爬虫从公开 RSS 源抓取，并按时间排序后写入站点数据文件。",
-            "impact": "自动更新后，首页目录和详情模板会读取同一份 JSON 数据，避免手写多个重复 HTML 页面。",
+            "points": points,
+            "background": background,
+            "impact": impact,
         })
 
     return {"updatedAt": f"{now.year} 年 {now.month} 月 {now.day} 日", "items": output_items}

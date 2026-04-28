@@ -52,6 +52,25 @@ class UpdateNewsTests(unittest.TestCase):
         self.assertTrue(first["background"])
         self.assertTrue(first["impact"])
 
+    def test_build_news_json_uses_reader_facing_analysis_not_technical_placeholders(self):
+        raw = [{
+            "title": "中国 AI 创业公司发布新产品",
+            "source": "示例媒体",
+            "url": "https://example.com/ai",
+            "summary": "这是一条关于 AI 产品发布的新闻摘要。",
+            "published": datetime(2026, 4, 28, 8, tzinfo=timezone.utc),
+        }]
+
+        data = update_news.build_news_json(raw, now=datetime(2026, 4, 28, 12, tzinfo=timezone.utc), limit=1)
+        item = data["items"][0]
+        visible_text = " ".join(item["points"] + [item["background"], item["impact"]])
+
+        self.assertIn("中国 AI 创业公司发布新产品", visible_text)
+        self.assertNotIn("RSS", visible_text)
+        self.assertNotIn("JSON", visible_text)
+        self.assertNotIn("HTML", visible_text)
+        self.assertNotIn("模板", visible_text)
+
     def test_write_news_json_outputs_pretty_utf8(self):
         from tempfile import TemporaryDirectory
         from pathlib import Path
