@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hermes HTML Pages</title>
+  <style>
+    :root { color-scheme: dark; font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: radial-gradient(circle at top, #26324f, #0b1020 60%, #05070d); color: #ecf2ff; }
+    main { width: min(900px, calc(100% - 40px)); padding: 48px; border: 1px solid rgba(148, 163, 184, .25); border-radius: 28px; background: rgba(15, 23, 42, .72); box-shadow: 0 24px 80px rgba(0,0,0,.45); backdrop-filter: blur(14px); }
+    h1 { margin: 0 0 12px; font-size: clamp(36px, 7vw, 72px); letter-spacing: -0.06em; }
+    p { color: #b8c3d9; font-size: 18px; line-height: 1.7; }
+    code { background: rgba(125, 211, 252, .12); color: #7dd3fc; padding: .18em .42em; border-radius: 8px; }
+    .badge { display: inline-flex; gap: 8px; align-items: center; padding: 8px 12px; border-radius: 999px; background: rgba(34, 197, 94, .14); color: #86efac; font-weight: 700; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin-top: 28px; }
+    .card { padding: 18px; border-radius: 18px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.08); }
+    a { color: #93c5fd; }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="badge">✓ GitHub Pages 已启用</div>
+    <h1>html</h1>
+    <p>这个仓库专门用于公开托管静态网页。以后我生成的 HTML/CSS/JS 文件可以提交到这里，你就能通过 GitHub Pages 链接直接查看。</p>
+    <div class="grid">
+      <section class="card"><strong>仓库</strong><p><code>qunqin219/html</code></p></section>
+      <section class="card"><strong>发布目录</strong><p><code>main / root</code></p></section>
+      <section class="card"><strong>入口文件</strong><p><code>index.html</code></p></section>
+    </div>
+  </main>
+</body>
+</html>
