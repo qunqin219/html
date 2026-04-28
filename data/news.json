@@ -2,244 +2,222 @@
   "updatedAt": "2026 年 4 月 28 日",
   "items": [
     {
-      "id": "china-meta-manus",
+      "id": "fa-zeng-zhi-xing-zheng-8-zuo-da-zheng",
       "rank": "01",
-      "title": "中国叫停 Meta 对 Manus 的收购，展现跨境科技交易影响力",
-      "source": "Bloomberg",
-      "badge": "AI / 中国",
-      "summary": "据彭博报道，中国叫停 Meta 对 AI 初创公司 Manus 的收购。该交易涉及一家已迁往新加坡、但拥有中国背景的智能体 AI 公司，显示中国正在扩大对跨境科技交易的监管影响。",
+      "title": "悟规律 明方向 学方法 增智慧丨树立和践行正确政绩观⑧把抓好党建作为最大政绩",
+      "source": "hebcdi.gov.cn",
+      "badge": "hebcdi.gov.cn",
+      "summary": "悟规律 明方向 学方法 增智慧丨树立和践行正确政绩观⑧把抓好党建作为最大政绩 hebcdi.gov.cn 人民之心｜既重政绩又重政德 央视网 构建全链条闭环工作机制 吉安实干为民推动学习教育落地见效 凤凰网江西 树立正确政绩观须明“公私之辨”（思想纵横） 人民日报 漫谈“政绩观”| 破除“三不沾”创造让群众看到变化、得到实惠的实绩 光明网",
       "date": "2026 年 4 月 28 日",
-      "time": "00:51 GMT",
+      "time": "00:52 GMT",
       "tags": [
-        "AI / 中国",
-        "科技监管",
-        "跨境交易",
-        "智能体 AI"
+        "hebcdi.gov.cn"
       ],
-      "originalUrl": "https://www.bloomberg.com/news/articles/2026-04-27/xi-tests-china-s-reach-by-blocking-meta-deal-that-s-already-done",
+      "originalUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxZDNRaWVWMXBTdjVnajRMR29Vd3I4clJ6NEdLb0xxNG9xMjgwU3pwLWl1eDhiS2VQbk53UjR4OUpicUNLUnp4VnBMNGZ1eUVaUTRrdTRzclJjWVZHS3UtSWlUSGZLQQ?oc=5",
       "points": [
-        "这起事件的核心不只是单笔收购，而是中国对跨境技术资产流向的监管边界正在外扩。",
-        "Manus 的“新加坡主体 + 中国背景”结构，使交易既涉及国际资本，也涉及中国技术生态和人才流动。",
-        "对于美国大型科技公司而言，未来收购具有中国研发背景的 AI 公司，可能面临更多不确定性。"
+        "这条新闻来自 hebcdi.gov.cn，发布时间为 00:52 GMT。",
+        "页面内容由自动更新脚本根据公开 RSS 标题、摘要和时间整理生成。",
+        "详情页保留原始报道链接，进一步信息请以原文为准。"
       ],
-      "background": "在生成式 AI 和智能体技术快速商业化的背景下，技术、人才和数据的跨境流动越来越容易被纳入国家产业安全与竞争政策考量。",
-      "impact": "短期看，Meta 的相关整合计划可能受阻；长期看，AI 初创公司的注册地、团队来源和投资结构都会成为跨境并购审查中的关键因素。"
+      "background": "该条目由每日新闻爬虫从公开 RSS 源抓取，并按时间排序后写入站点数据文件。",
+      "impact": "自动更新后，首页目录和详情模板会读取同一份 JSON 数据，避免手写多个重复 HTML 页面。"
     },
     {
-      "id": "meta-ai-firewall",
+      "id": "zhong-quan-guo-gong-fa-bu-3024-quan-guo",
       "rank": "02",
-      "title": "Meta 收购受阻暴露中国 AI 出海与本土监管之间的张力",
-      "source": "Reuters",
-      "badge": "AI 出海",
-      "summary": "路透分析称，Meta 相关交易凸显中国科技企业全球化的两难：既要鼓励技术走向海外，又要避免关键能力和资本彻底离开本土生态。",
-      "date": "2026 年 4 月 27 日",
-      "time": "18:58 GMT",
-      "tags": [
-        "AI 出海",
-        "产业政策",
-        "Meta",
-        "全球化"
-      ],
-      "originalUrl": "https://www.reuters.com/business/finance/meta-pokes-holes-chinas-great-ai-firewall-2026-04-27/",
-      "points": [
-        "中国科技公司出海常常需要在国际融资、海外市场和本土监管之间取得平衡。",
-        "AI 领域的核心资产包括模型能力、工程团队、产品数据和产业链资源，监管关注点更复杂。",
-        "交易被叫停会给其他计划海外架构或并购退出的 AI 创业团队带来示范效应。"
-      ],
-      "background": "中国希望技术企业具备全球竞争力，但在 AI 这样的战略领域，核心能力外流也可能被视为产业安全问题。",
-      "impact": "未来 AI 公司设计公司架构、融资路径和退出方案时，可能需要更早纳入合规和地缘政治风险评估。"
-    },
-    {
-      "id": "china-ai-hardware",
-      "rank": "03",
-      "title": "中国 AI 硬件创业升温：智能体能力正在进入真实设备",
-      "source": "CNBC",
-      "badge": "AI 硬件",
-      "summary": "CNBC 关注杭州等地 AI 硬件创业热潮：从可语音操控 AI 智能体的夹式麦克风，到面向制造和汽车场景的本地 AI 方案，AI 正从云端模型走向物理世界。",
-      "date": "2026 年 4 月 27 日",
-      "time": "23:00 GMT",
-      "tags": [
-        "AI 硬件",
-        "杭州创业",
-        "智能体",
-        "终端设备"
-      ],
-      "originalUrl": "https://www.cnbc.com/2026/04/27/china-ai-hardware-shipping-einclaw-style3d-vw-alibaba.html",
-      "points": [
-        "AI 创业正在从纯软件应用扩展到硬件终端，强调随身、低延迟和场景化交互。",
-        "杭州等地的供应链、制造资源和互联网人才，为 AI 硬件试错提供了较低门槛。",
-        "汽车、工厂、消费电子等场景会成为 AI agent 落地的重要入口。"
-      ],
-      "background": "当大模型能力逐渐商品化，创业团队开始寻找更贴近用户行为和产业流程的硬件载体。",
-      "impact": "未来 AI 产品竞争可能不只取决于模型参数，而取决于硬件形态、交互体验、成本控制和场景分发能力。"
-    },
-    {
-      "id": "musk-altman-openai",
-      "rank": "04",
-      "title": "马斯克与奥特曼围绕 OpenAI 的争端进入法庭阶段",
-      "source": "CNN",
-      "badge": "科技治理",
-      "summary": "埃隆·马斯克与山姆·奥特曼围绕 OpenAI 发展方向、治理结构和商业化路径的长期争端进入司法程序，案件可能继续影响 AI 行业治理讨论。",
-      "date": "2026 年 4 月 27 日",
-      "time": "21:07 GMT",
-      "tags": [
-        "科技治理",
-        "OpenAI",
-        "公司治理",
-        "诉讼"
-      ],
-      "originalUrl": "https://www.cnn.com/2026/04/27/business/video/musk-altman-openai-gold-live-042704pseg2-cnni-business-fast",
-      "points": [
-        "争议焦点围绕 OpenAI 从非营利使命到商业化扩张之间的张力。",
-        "案件会让 AI 公司的治理结构、投资人权利和公共利益承诺受到更多审视。",
-        "无论结果如何，头部 AI 公司的权力结构都会成为行业监管和舆论焦点。"
-      ],
-      "background": "OpenAI 的发展路径被视为整个生成式 AI 行业的缩影：公益使命、巨额资本和商业产品化之间存在天然冲突。",
-      "impact": "这类诉讼可能推动 AI 公司在章程、董事会职责、模型安全承诺和投资协议上做出更明确安排。"
-    },
-    {
-      "id": "canada-sovereign-fund",
-      "rank": "05",
-      "title": "加拿大推出 250 亿加元主权财富基金以推动经济增长",
-      "source": "Financial Times",
-      "badge": "财经",
-      "summary": "加拿大启动规模 250 亿加元的主权财富基金，目标是支持本国增长、战略产业和长期投资能力。",
-      "date": "2026 年 4 月 27 日",
-      "time": "16:38 GMT",
-      "tags": [
-        "财经",
-        "主权基金",
-        "加拿大",
-        "长期投资"
-      ],
-      "originalUrl": "https://www.ft.com/content/e03d21ab-dec8-4ab1-8c99-200ba6f6c72f",
-      "points": [
-        "基金可能用于支持基础设施、产业升级和具有战略意义的长期项目。",
-        "主权基金工具可以帮助政府把一次性财政资源转化为持续投资能力。",
-        "在全球产业政策回潮背景下，加拿大也在强化国家资本的主动配置角色。"
-      ],
-      "background": "面对生产率增长压力、供应链重组和战略产业竞争，越来越多国家开始使用政府资本引导长期投资。",
-      "impact": "如果执行顺利，该基金可能改善加拿大在新能源、AI、关键矿产和基础设施等领域的投资能力。"
-    },
-    {
-      "id": "latin-america-iran-war",
-      "rank": "06",
-      "title": "伊朗战争背景下，拉美外交独立性受到重新审视",
-      "source": "Financial Times",
-      "badge": "国际",
-      "summary": "相关评论认为，拉美在中东局势和全球秩序变化中的外交姿态更趋自主，地区政治不再完全受传统外部力量框架束缚。",
+      "title": "中华全国总工会发布表彰决定 3024个全国五一劳动奖揭晓",
+      "source": "人民网",
+      "badge": "中国",
+      "summary": "中华全国总工会发布表彰决定 3024个全国五一劳动奖揭晓 人民网 2026年全国五一劳动奖揭晓，上海148个集体和个人受到表彰 thepaper.cn 撒贝宁、张帅获全国五一劳动奖章 新浪财经 全国总工会表彰3024个全国五一劳动奖 新京报 明日表彰！基层一线表彰对象占比近三分之二 新浪财经",
       "date": "2026 年 4 月 28 日",
-      "time": "04:00 GMT",
+      "time": "02:11 GMT",
       "tags": [
-        "国际",
-        "拉美",
-        "地缘政治",
-        "外交"
+        "中国",
+        "人民网"
       ],
-      "originalUrl": "https://www.ft.com/content/1cda459a-d7f5-4a79-b0a3-ad7b82a16a7e",
+      "originalUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53SUNpd3k5Q1RONW1scGxxTlZpUkowZVZoeXRVWmtQc1hrMkI5ZmdDTVFCQWFBNnFYNml6ZGk0azhidE8xWGhIRlRrVTFuTlVGMkxfY2NVZTVpTS02bFpjc2N6WFpTbmdRYVJ3bVF3?oc=5",
       "points": [
-        "拉美国家在国际冲突中的表态越来越体现自身利益，而非简单跟随传统阵营。",
-        "能源、贸易和移民等现实议题，正在重塑拉美对中东局势的政策判断。",
-        "多极化环境给中等国家和地区集团提供了更大的外交腾挪空间。"
+        "这条新闻来自 人民网，发布时间为 02:11 GMT。",
+        "页面内容由自动更新脚本根据公开 RSS 标题、摘要和时间整理生成。",
+        "详情页保留原始报道链接，进一步信息请以原文为准。"
       ],
-      "background": "冷战后形成的单一外交依赖正在减弱，拉美国家在全球议题中更强调自主性和议题交易。",
-      "impact": "这种变化可能影响美国、欧洲和中国在拉美地区的外交策略，也会改变国际组织中的投票和联盟格局。"
+      "background": "该条目由每日新闻爬虫从公开 RSS 源抓取，并按时间排序后写入站点数据文件。",
+      "impact": "自动更新后，首页目录和详情模板会读取同一份 JSON 数据，避免手写多个重复 HTML 页面。"
     },
     {
-      "id": "china-llm-progress",
+      "id": "zheng-shi-zheng-kai-ye-xin-chan-xin-neng",
+      "rank": "03",
+      "title": "政在协商丨青岛市政协召开双月协商座谈会为农业新质生产力注入新动能",
+      "source": "cppcc.gov.cn",
+      "badge": "cppcc.gov.cn",
+      "summary": "政在协商丨青岛市政协召开双月协商座谈会为农业新质生产力注入新动能 cppcc.gov.cn 为农业新质生产力注入新动能！青岛市政协召开双月协商座谈会 新浪财经",
+      "date": "2026 年 4 月 27 日",
+      "time": "07:47 GMT",
+      "tags": [
+        "cppcc.gov.cn"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CTW5Kc2xTanM5Sm1BeUg1S2ZYdG5IQVQzM3BSYWh4SUxaczdYXzNqcXF1ZWdUS2kwSl9vQXEwQlo4WmZheFV3TURMNk81MkFocW5sSlNaeHNNUWd4U0o4M2tRUC1KTnN5RmZvUUY2M1FtMjV1?oc=5",
+      "points": [
+        "这条新闻来自 cppcc.gov.cn，发布时间为 07:47 GMT。",
+        "页面内容由自动更新脚本根据公开 RSS 标题、摘要和时间整理生成。",
+        "详情页保留原始报道链接，进一步信息请以原文为准。"
+      ],
+      "background": "该条目由每日新闻爬虫从公开 RSS 源抓取，并按时间排序后写入站点数据文件。",
+      "impact": "自动更新后，首页目录和详情模板会读取同一份 JSON 数据，避免手写多个重复 HTML 页面。"
+    },
+    {
+      "id": "yuan",
+      "rank": "04",
+      "title": "神州答卷｜守护清清黄河源头的青海故事",
+      "source": "新华网",
+      "badge": "新华网",
+      "summary": "神州答卷｜守护清清黄河源头的青海故事 新华网 青海：山乡有变 绿野生金 人民网",
+      "date": "2026 年 4 月 28 日",
+      "time": "01:42 GMT",
+      "tags": [
+        "新华网"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXN6WGRadm9oaVlHUl9VV3VIZUVkeXNlaEo5MElVQ2JKcTl2Q0tXY2JVQVo4T05rQkdsRUNUUUFoaEFHSWxLNUNvaGs4Qm50eTZIVHE3WWZ3QWs3WHFKOUZYRFkwUnI3U3paaEk0cUl1OHBmWld1NUNwbUhzeGRyUlM1OA?oc=5",
+      "points": [
+        "这条新闻来自 新华网，发布时间为 01:42 GMT。",
+        "页面内容由自动更新脚本根据公开 RSS 标题、摘要和时间整理生成。",
+        "详情页保留原始报道链接，进一步信息请以原文为准。"
+      ],
+      "background": "该条目由每日新闻爬虫从公开 RSS 源抓取，并按时间排序后写入站点数据文件。",
+      "impact": "自动更新后，首页目录和详情模板会读取同一份 JSON 数据，避免手写多个重复 HTML 页面。"
+    },
+    {
+      "id": "da-an-an-quan-ti-gong-kai-fa",
+      "rank": "05",
+      "title": "孙磊大使在安理会海上安全问题高级别公开辩论会上的答辩发言",
+      "source": "中华人民共和国常驻联合国代表团",
+      "badge": "中国",
+      "summary": "孙磊大使在安理会海上安全问题高级别公开辩论会上的答辩发言 中华人民共和国常驻联合国代表团 视频丨中方代表：日本“颠倒黑白”，需警惕其“新型军国主义”动向 thepaper.cn 中国代表当场严厉驳斥日方-腾讯新闻 xw.qq.com 中方在联合国安理会严正驳斥日本代表妄议东海、南海局势 Jiemian.com 中国代表驳斥日本欧盟涉南中国海言论：毫无依据 联…",
+      "date": "2026 年 4 月 28 日",
+      "time": "04:37 GMT",
+      "tags": [
+        "中国",
+        "中华人民共和国常驻联合国代表团"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90T1FTLS04WVZLbTBQNWdnR250bFBRQ2Z2UGxJZ0gzRkhIZ0xxeV9uZGpwNEdxd3NJUGdkdEdUeXBSQ2dmaGJOSTRNMHIwYTRnX080VS1mZVJOSkN3aTNFU2dIZDJ5Q3o5dDRYOEM5cmhHOUpwakE?oc=5",
+      "points": [
+        "这条新闻来自 中华人民共和国常驻联合国代表团，发布时间为 04:37 GMT。",
+        "页面内容由自动更新脚本根据公开 RSS 标题、摘要和时间整理生成。",
+        "详情页保留原始报道链接，进一步信息请以原文为准。"
+      ],
+      "background": "该条目由每日新闻爬虫从公开 RSS 源抓取，并按时间排序后写入站点数据文件。",
+      "impact": "自动更新后，首页目录和详情模板会读取同一份 JSON 数据，避免手写多个重复 HTML 页面。"
+    },
+    {
+      "id": "jian-ren-ting",
+      "rank": "06",
+      "title": "白宫晚宴枪击事件嫌疑人首次出庭 面临三项重罪指控",
+      "source": "新京报",
+      "badge": "中国",
+      "summary": "白宫晚宴枪击事件嫌疑人首次出庭 面临三项重罪指控 新京报 科尔・托马斯・艾伦：在白宫记者晚宴开枪的疑犯是谁？ BBC 国际观察丨白宫记协晚宴枪声缘何而起 上海热线 爬行脱险后，特朗普身旁的华裔女记者：这国怎？我陷思…-观察者网 观察者 记者手记丨华盛顿的盛宴与枪声 新华网",
+      "date": "2026 年 4 月 28 日",
+      "time": "02:04 GMT",
+      "tags": [
+        "中国",
+        "新京报"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Qd21LTk1pOWloNUpEdEtYdjBrOHZjOGpSZ1BLb2pRQllac05xeWV2a1VKU3NqQmJKOVpJc2U3OHlLLUVQVkZMejBkbkdCY2RCVXhic2g5OTVKYVZXbGRFZ3BNeEs?oc=5",
+      "points": [
+        "这条新闻来自 新京报，发布时间为 02:04 GMT。",
+        "页面内容由自动更新脚本根据公开 RSS 标题、摘要和时间整理生成。",
+        "详情页保留原始报道链接，进一步信息请以原文为准。"
+      ],
+      "background": "该条目由每日新闻爬虫从公开 RSS 源抓取，并按时间排序后写入站点数据文件。",
+      "impact": "自动更新后，首页目录和详情模板会读取同一份 JSON 数据，避免手写多个重复 HTML 页面。"
+    },
+    {
+      "id": "da-zhong-guo-da-mo-xing-fa-bu",
       "rank": "07",
-      "title": "专家称中国大模型进展仍然亮眼，出口管制未能阻止技术迭代",
-      "source": "CNBC",
-      "badge": "大模型",
-      "summary": "Paul Triolo 表示，中国大模型在美国出口管制背景下仍持续取得进展，DeepSeek 等模型的新版本体现出较强工程优化和推理能力。",
-      "date": "2026 年 4 月 27 日",
-      "time": "05:44 GMT",
+      "title": "服务重大空天战略 中国首个面向临近空间大模型“磐石·临空”发布",
+      "source": "chinanews.com.cn",
+      "badge": "AI",
+      "summary": "服务重大空天战略 中国首个面向临近空间大模型“磐石·临空”发布 chinanews.com.cn 在Google 新闻上查看完整报道",
+      "date": "2026 年 4 月 28 日",
+      "time": "05:36 GMT",
       "tags": [
-        "大模型",
-        "DeepSeek",
-        "出口管制",
-        "模型迭代"
+        "AI",
+        "中国",
+        "chinanews.com.cn"
       ],
-      "originalUrl": "https://www.cnbc.com/video/2026/04/27/chinas-llm-advances-continue-to-impress-despite-us-export-controls.html",
+      "originalUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzd0pWV0JnNVNRbm1ueUoxQnY0NDNvcUlLOHJUdXU5X3lUQllVMUlBcC1VRW1rQ1VmaGdmTEN0T01PaElXQjhuazc0dzNYVHF5Mzc3cTYwZHlEUTF2d2ZRVDlBdk5oVlVB?oc=5",
       "points": [
-        "算力限制并没有完全阻止模型能力提升，工程优化和训练效率成为关键变量。",
-        "中国模型团队在成本控制、推理效率和开源生态上形成了差异化路线。",
-        "出口管制可能改变竞争方式：从堆算力转向算法、数据和系统工程优化。"
+        "这条新闻来自 chinanews.com.cn，发布时间为 05:36 GMT。",
+        "页面内容由自动更新脚本根据公开 RSS 标题、摘要和时间整理生成。",
+        "详情页保留原始报道链接，进一步信息请以原文为准。"
       ],
-      "background": "美国对先进芯片出口的限制提高了中国 AI 训练门槛，但也促使模型团队在效率和架构层面加速创新。",
-      "impact": "未来全球大模型竞争会更加关注单位算力产出、推理成本和产业落地，而不是单纯比较训练集群规模。"
+      "background": "该条目由每日新闻爬虫从公开 RSS 源抓取，并按时间排序后写入站点数据文件。",
+      "impact": "自动更新后，首页目录和详情模板会读取同一份 JSON 数据，避免手写多个重复 HTML 页面。"
     },
     {
-      "id": "tmt-market-talk",
+      "id": "zhong-guo-fa-da",
       "rank": "08",
-      "title": "科技、媒体与电信板块市场观察",
-      "source": "WSJ",
-      "badge": "市场",
-      "summary": "市场观察栏目梳理科技、媒体和电信板块动态，投资者继续关注 AI 基建、云服务投入和大型科技公司的盈利预期。",
-      "date": "2026 年 4 月 27 日",
-      "time": "10:31 GMT",
+      "title": "评论：中国以法治护航大融居时代",
+      "source": "chinanews.com.cn",
+      "badge": "中国",
+      "summary": "评论：中国以法治护航大融居时代 chinanews.com.cn 深入贯彻实施民族团结进步促进法 进一步增强中华民族凝聚力向心力 人民日报 坚守正道：民族团结进步促进法的深层含义 thepaper.cn 公民论坛 - 杨建利：民族团结进步促进法意在构建中华民族概念及政治大统一 RFI 黄强在省委理论学习中心组集体学习会上强调认真落实民族团结进步促进法不断铸牢…",
+      "date": "2026 年 4 月 28 日",
+      "time": "04:36 GMT",
       "tags": [
-        "市场",
-        "TMT",
-        "科技股",
-        "AI 基建"
+        "中国",
+        "chinanews.com.cn"
       ],
-      "originalUrl": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-cf3c54e8",
+      "originalUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TQjJOM0Z1UGI1NDdkWnZpdXBpMk05cFJNYVY4ZUZzVmxocnRmMHlYeWIwRUVReXpPZExURWtGY0s5dTl2NXNEYXBTYlUwS2Vtbk1vdHhiVWVtY2lhQ0NLc1hYLS04eXBN?oc=5",
       "points": [
-        "AI 基础设施支出仍是科技板块估值的重要支撑。",
-        "云服务、芯片、数据中心和企业软件之间的业绩联动更强。",
-        "投资者开始区分“AI 叙事”和真实收入贡献，市场分化可能加剧。"
+        "这条新闻来自 chinanews.com.cn，发布时间为 04:36 GMT。",
+        "页面内容由自动更新脚本根据公开 RSS 标题、摘要和时间整理生成。",
+        "详情页保留原始报道链接，进一步信息请以原文为准。"
       ],
-      "background": "在经历多轮 AI 主题上涨后，市场对科技公司的要求正在从愿景转向现金流和利润兑现。",
-      "impact": "后续财报季中，资本开支效率、云业务增长和 AI 产品变现会成为决定股价表现的核心指标。"
+      "background": "该条目由每日新闻爬虫从公开 RSS 源抓取，并按时间排序后写入站点数据文件。",
+      "impact": "自动更新后，首页目录和详情模板会读取同一份 JSON 数据，避免手写多个重复 HTML 页面。"
     },
     {
-      "id": "us-market-wrap-ai-aws",
+      "id": "fa-fa-bu-fa",
       "rank": "09",
-      "title": "4 月 27 日美股收盘回顾：AI、AWS 与市场情绪成焦点",
-      "source": "CNBC",
-      "badge": "美股",
-      "summary": "市场继续关注科技股和 AI 资本开支。分析人士认为，亚马逊若要保持 AWS 在 AI 云基础设施中的领先地位，仍需扩大投入。",
-      "date": "2026 年 4 月 27 日",
-      "time": "21:02 GMT",
+      "title": "最高法发布关于适用海商法时间效力的若干规定",
+      "source": "同花顺",
+      "badge": "同花顺",
+      "summary": "最高法发布关于适用海商法时间效力的若干规定 同花顺 在Google 新闻上查看完整报道",
+      "date": "2026 年 4 月 28 日",
+      "time": "03:40 GMT",
       "tags": [
-        "美股",
-        "AWS",
-        "AI 投资",
-        "科技股"
+        "同花顺"
       ],
-      "originalUrl": "https://www.cnbc.com/video/2026/04/27/post-market-wrap-april-27-2026.html",
+      "originalUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YeEpsNnZfQ2RZOHpvbGlHbzZJMzZVVmloTTRBNHpXQ1h6OEpvUDlsUVRDRjlPNzI2VVo2ZWtpUEdkbWpIT3pnNjlFNXJnVTdGSkp2eGpoUHhKcS0zSnc?oc=5",
       "points": [
-        "云计算公司正在为 AI 工作负载进行新一轮基础设施投入。",
-        "AWS 的竞争优势取决于 GPU 供给、模型服务生态和企业客户迁移速度。",
-        "市场短期可能担心资本开支压力，但长期会关注投入是否转化为云收入增长。"
+        "这条新闻来自 同花顺，发布时间为 03:40 GMT。",
+        "页面内容由自动更新脚本根据公开 RSS 标题、摘要和时间整理生成。",
+        "详情页保留原始报道链接，进一步信息请以原文为准。"
       ],
-      "background": "AI 训练和推理需求推高云基础设施竞争强度，微软、谷歌、亚马逊等平台都在加速建设算力能力。",
-      "impact": "大型云厂商的资本开支节奏会影响半导体、数据中心、电力和企业软件等多个产业链环节。"
+      "background": "该条目由每日新闻爬虫从公开 RSS 源抓取，并按时间排序后写入站点数据文件。",
+      "impact": "自动更新后，首页目录和详情模板会读取同一份 JSON 数据，避免手写多个重复 HTML 页面。"
     },
     {
-      "id": "luxshare-2025-performance",
+      "id": "news",
       "rank": "10",
-      "title": "立讯精密发布 2025 年业绩，强化全球精密制造平台定位",
-      "source": "PA Media",
-      "badge": "制造业",
-      "summary": "公司在互连、供电、散热与 AI 数据中心基础设施等方向继续扩展能力，强调全球精密制造平台的韧性和增长空间。",
-      "date": "2026 年 4 月 27 日",
-      "time": "07:04 GMT",
+      "title": "西藏学者研讨会谈《格萨尔》：史诗印证民族“三交”",
+      "source": "chinanews.com.cn",
+      "badge": "科技",
+      "summary": "西藏学者研讨会谈《格萨尔》：史诗印证民族“三交” chinanews.com.cn 中国首个《格萨尔》跨方言区数据库完成首批音视频数据录制 qh.chinanews.com.cn 重磅！人类非物质文化遗产代表作“格萨尔”新成果发布 搜狐网",
+      "date": "2026 年 4 月 28 日",
+      "time": "04:35 GMT",
       "tags": [
-        "制造业",
-        "AI 数据中心",
-        "精密制造",
-        "业绩"
+        "科技",
+        "中国",
+        "chinanews.com.cn"
       ],
-      "originalUrl": "https://pressreleasehub.pa.media/article/luxshare-ict-reports-resilient-2025-performance-reinforcing-its-global-precision-manufacturing-platform-71979.html",
+      "originalUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzVjlhWEpMM0tlNFF3VUtCRXloaE9lT0YzU21FME9UeGFYMWkxT24tNXZmUDlBYmdKOHRNNEM5T0pXRjlkc1pnQXF2ay12a3VtUFN5V0Jra0NwcWF4MVJjeGtOQWdCb1JV?oc=5",
       "points": [
-        "AI 数据中心对高速互连、供电和散热提出更高要求，给精密制造企业带来新增量。",
-        "立讯精密试图从消费电子供应链延伸到更高价值的数据中心基础设施环节。",
-        "全球客户布局和多品类制造能力，是其抵御单一市场波动的重要基础。"
+        "这条新闻来自 chinanews.com.cn，发布时间为 04:35 GMT。",
+        "页面内容由自动更新脚本根据公开 RSS 标题、摘要和时间整理生成。",
+        "详情页保留原始报道链接，进一步信息请以原文为准。"
       ],
-      "background": "AI 基础设施投资持续升温，硬件供应链的价值不只在芯片，也包括连接器、线缆、散热、电源和整机制造。",
-      "impact": "如果 AI 数据中心业务持续放量，精密制造企业的估值逻辑可能从消费电子周期转向 AI 基础设施成长。"
+      "background": "该条目由每日新闻爬虫从公开 RSS 源抓取，并按时间排序后写入站点数据文件。",
+      "impact": "自动更新后，首页目录和详情模板会读取同一份 JSON 数据，避免手写多个重复 HTML 页面。"
     }
   ]
 }
