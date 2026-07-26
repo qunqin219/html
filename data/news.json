@@ -1,137 +1,197 @@
 {
-  "updatedAt": "2026 年 7 月 25 日",
+  "updatedAt": "2026 年 7 月 26 日",
   "items": [
     {
-      "id": "kai",
+      "id": "zhong-guo-61-chan",
       "rank": "01",
-      "title": "省委常委会召开会议 刘宁主持并讲话",
-      "source": "新华网",
-      "badge": "AI",
-      "summary": "省委常委会召开会议 刘宁主持并讲话 新华网 时政微观察丨培养全面发展的时代新人 新浪新闻_手机新浪网 习近平总书记的重要论述指引基础教育改革发展开创新局面 北京市人民政府 总书记为新时代新征程基础教育工作指明方向- 中国日报网 China Daily 落实立德树人根本任务 推进基础教育扩优提质 人民日报",
-      "date": "2026 年 7 月 24 日",
-      "time": "23:33 GMT",
-      "tags": [
-        "AI",
-        "国际",
-        "中国",
-        "新华网"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRFNKVDd5MzRkbWEwcXZzZzMtc0VKVWsxYzFhUkxOOGxCSUQ4YzhHNlg4ZFVOeWlZTDJ1ZkFrUVljcEtCX25IUmpLYnF3SE9OS2lZQzlrajJtZjYzN0NNNzR2VjVJQXQ2Q1ZheDFHMjNCTXhTTzlzWXJJbmVIdVNCT0p3?oc=5",
-      "points": [
-        "报道聚焦“省委常委会召开会议 刘宁主持并讲话”，核心信息来自 新华网 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、国际、中国 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 AI、国际、中国 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、国际、中国 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "apec-ren-gong-zhi-neng-ren-gong-zhi-neng-fa",
-      "rank": "02",
-      "title": "APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明",
-      "source": "中国日报网",
-      "badge": "AI",
-      "summary": "APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明 中国日报网 万山磅礴看主峰｜习近平谈亚太合作- 中国日报网 China Daily 视频丨2026年APEC数字和人工智能部长会议通过《成都声明》 光明网 2026年亚太经合组织人工智能高级别论坛在四川成都举办 经济频道 南京会议如何推动数字技能培训与包容性就业？ 新浪财经",
-      "date": "2026 年 7 月 24 日",
-      "time": "23:59 GMT",
-      "tags": [
-        "AI",
-        "财经",
-        "中国",
-        "中国日报网"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uVzhONTVEbF83UkFFVnJ4aUtNTmkwSVUtNEFYNy1LUlNlRm5zY0J5amlrV1VyQ3A4NWtZZHpPaE5lcnVRNWVvbnlEbFlXbV9Bdm9TRFNIeV94c1pnSkRFWUltYm5UNjJRRV9TZl84a1FVV1BlYXVIbzhEUFA?oc=5",
-      "points": [
-        "报道聚焦“APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明”，核心信息来自 中国日报网 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、财经、中国 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 AI、财经、中国 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、财经、中国 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "3000-95-ye-guo-chan",
-      "rank": "03",
-      "title": "夏粮首破3000亿斤，自主品种占比95%以上，农业现代化支撑我国今年粮食生产“首战告捷”",
-      "source": "中国科技网",
-      "badge": "科技",
-      "summary": "夏粮首破3000亿斤，自主品种占比95%以上，农业现代化支撑我国今年粮食生产“首战告捷” 中国科技网 上半年农业农村经济发展势头良好 人民日报 “中国粮”用“中国种” 我国农作物自主选育品种种植面积占比超95% 央视网 权威数读｜夏粮首破3000亿斤，农业农村经济保持稳中向好 光明网 夏粮首次突破3000亿斤 我国农业农村经济运行稳中向好 人民网财经",
-      "date": "2026 年 7 月 24 日",
-      "time": "14:35 GMT",
-      "tags": [
-        "科技",
-        "财经",
-        "中国",
-        "中国科技网"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04Smo5RlA1ZWRfbzFOUk0wNllURmlpdXN1bWpkY1dsWTlId3FYbVg0ZVFKTUUyMnQySlAzUGlFSmI2UnIxZ0VYdndwR05SdzZHVnhRSlRsUGhzOVpuazJSWFNWQ0VlNVNpRmR6TmZwV3g?oc=5",
-      "points": [
-        "报道聚焦“夏粮首破3000亿斤，自主品种占比95%以上，农业现代化支撑我国今年粮食生产“首战告捷””，核心信息来自 中国科技网 的公开报道。",
-        "从关键词看，这条新闻主要关联 科技、财经、中国 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 科技、财经、中国 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 科技、财经、中国 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "ren",
-      "rank": "04",
-      "title": "天天学习｜一方感恩碑 廿载育人心",
-      "source": "politics.people.com.cn",
-      "badge": "politics.people.co",
-      "summary": "天天学习｜一方感恩碑 廿载育人心 politics.people.com.cn 在Google 新闻上查看更多头条新闻和观点",
-      "date": "2026 年 7 月 25 日",
-      "time": "01:04 GMT",
-      "tags": [
-        "politics.people.co"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9STmx1eG1DYjl2djhUZnFZazBTRlNMd2VfWXYxem8wN2JhaVhRN09EeGEyM2hRMDRlcmhsOFhVbXAxVjdlYXBDY2EwaldJZkFIeUhPRndzTzNhaXEwVFVJeWZXXzBwRHVHaEZkNDNEZENqUQ?oc=5",
-      "points": [
-        "报道聚焦“天天学习｜一方感恩碑 廿载育人心”，核心信息来自 politics.people.com.cn 的公开报道。",
-        "从关键词看，这条新闻主要关联 politics.people.co 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 politics.people.co 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 politics.people.co 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "da-400-gou-21-xin-wen",
-      "rank": "05",
-      "title": "特朗普称不排除加大对伊军事打击；宁德时代最高400亿元回购｜21早新闻",
-      "source": "东方财富",
+      "title": "中国第61项世界遗产诞生 景德镇：瓷立千年",
+      "source": "中国青年网",
       "badge": "国际",
-      "summary": "特朗普称不排除加大对伊军事打击；宁德时代最高400亿元回购｜21早新闻 东方财富 特朗普总统：与伊朗的谈判仍在进行，但美国已准备升级军事行动 美国之音 特朗普称美国与伊朗仍在对话 新浪财经 美威胁发动空前打击 伊朗、胡塞武装：已做好应战准备 中国日报网 美国总统为何盯上了伊朗“镐山”核设施？ 央视网",
-      "date": "2026 年 7 月 24 日",
-      "time": "23:27 GMT",
+      "summary": "中国第61项世界遗产诞生 景德镇：瓷立千年 中国青年网 “景德镇手工瓷业遗存”申遗成功--国际 人民网 江山留胜迹 中国61项世界遗产最新“全家福” 新华网 擦亮中华文明重要名片——习近平文化思想引领中国世界遗产申报保护工作壮阔实践 北京市人民政府 景德镇申遗成功！ | 汕头，早上好 finance.sina.com.cn",
+      "date": "2026 年 7 月 25 日",
+      "time": "22:20 GMT",
       "tags": [
         "国际",
         "中国",
-        "东方财富"
+        "中国青年网"
       ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0cjlRa3ZkR2JNeXM4azlDaXkxSi1IOVlLTUZseXV2VW5GNEN0S3VLREZoTlZsRmZ1OXBjbS1zWXJWalNGbzhyRzJLNlRwTVEtWHhmUWR3eS1MM0xHWHB2X3hmdHZ5dw?oc=5",
+      "originalUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GaVBVbF81OXZzWWp1MWQwYVQ2bkxEaUVHMFc3b2JHWmhTcm55MFJTbVQ0WVlyTGx3ZWRTYzM3elNTX2lYS2oxcXJ5OVIxY0lsWTk1dm4tX29LUkVfeHN6Z2JOSjc?oc=5",
       "points": [
-        "报道聚焦“特朗普称不排除加大对伊军事打击；宁德时代最高400亿元回购｜21早新闻”，核心信息来自 东方财富 的公开报道。",
-        "从关键词看，这条新闻主要关联 国际、中国、东方财富 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“中国第61项世界遗产诞生 景德镇：瓷立千年”，核心信息来自 中国青年网 的公开报道。",
+        "从关键词看，这条新闻主要关联 国际、中国、中国青年网 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 国际、中国、东方财富 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 国际、中国、东方财富 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 国际、中国、中国青年网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 国际、中国、中国青年网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "jing-han-fa-kai-gong",
+      "id": "fa-guo-26-ren",
+      "rank": "02",
+      "title": "失控野火肆虐法国西班牙 26万人被迫撤离",
+      "source": "RFI",
+      "badge": "中国",
+      "summary": "失控野火肆虐法国西班牙 26万人被迫撤离 RFI 高温大风致野火失控 法西两国逾20万人疏散 新华网 总台记者探访丨山火逼近法国波尔多市区 居民避难人数创纪录 央视网 山火难控 西班牙请求欧盟提供支援 中国青年网 野火肆虐，法国总理下令：部署A400M军用运输机参与灭火 finance.sina.com.cn",
+      "date": "2026 年 7 月 25 日",
+      "time": "21:19 GMT",
+      "tags": [
+        "中国",
+        "RFI"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOWVF1OHZxSnE1YjhTczhVcnN3OFFySGFXTzdvNnRidnU5clJvMXVyakxXVE5aTUViVGlaZWdQdFB6a3J4SVdTVTByZGFwYmpVNzMyQ2hEdlFrX2Vyc0VkY2w5cm0tTHBCSFRtaS1haWNidFI1WmRHMVJRYnlJSWJVcHVHYjJBRjlXcUw4eVZXcnJPbGJneUo1UlNxSFJWMFpBT2F3d1NOanhwdERNZm0xd2ZwVHRHV1Joc0JmNjVDaURqWmh4WGtReWRodGs2TDNOT3lCZm9rUFFIWmE1blB4SUZjaEVUMDhSQS1oYXJ2V2pGTWpyS1J2elk0UmxJcXJEN2RoQzlpZ1hhQ0tGckhNb09vbEctODdmN2xGTWE2aXBuOVVXSEVWU0xuT2RpN0U?oc=5",
+      "points": [
+        "报道聚焦“失控野火肆虐法国西班牙 26万人被迫撤离”，核心信息来自 RFI 的公开报道。",
+        "从关键词看，这条新闻主要关联 中国、RFI 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 中国、RFI 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 中国、RFI 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "da-shu",
+      "rank": "03",
+      "title": "从大学同窗到菲尔兹“双星” 王虹与邓煜的数学追梦路",
+      "source": "新京报",
+      "badge": "新京报",
+      "summary": "从大学同窗到菲尔兹“双星” 王虹与邓煜的数学追梦路 新京报 在Google 新闻上查看更多头条新闻和观点",
+      "date": "2026 年 7 月 26 日",
+      "time": "00:41 GMT",
+      "tags": [
+        "新京报"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoRzJ0OW9qSEJhWVZMVUVfbXlPNTg2VGs5cFJ3UG9RcVdRQkFxMFZkdWc1WWpubFJaS1hQUWpRTzQ4cnpTWnh6dTBGN1pTYWNVM3BPdnRWbFFkMUc1Q2dzbjNkdmo?oc=5",
+      "points": [
+        "报道聚焦“从大学同窗到菲尔兹“双星” 王虹与邓煜的数学追梦路”，核心信息来自 新京报 的公开报道。",
+        "从关键词看，这条新闻主要关联 新京报 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 新京报 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 新京报 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "apec-ren-gong-zhi-neng-xing",
+      "rank": "04",
+      "title": "APEC人工智能高级别论坛举行",
+      "source": "人民网财经",
+      "badge": "AI",
+      "summary": "APEC人工智能高级别论坛举行 人民网财经 业内人士：中国西部城市释放亚太数字合作吸引力 新华网 APEC论坛聚焦亚太人工智能普惠发展 光明网 小小展场里，文莱部长来“点单”丨关注2026年APEC数字周系列活动 Sohu 《APEC数据促进增长高级别圆桌会主席声明》发布 中国日报网",
+      "date": "2026 年 7 月 26 日",
+      "time": "00:53 GMT",
+      "tags": [
+        "AI",
+        "科技",
+        "中国",
+        "人民网财经"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80OUVJWjdLbmlWVDdCVkpWT29xR3BLSGZtby05R3RYaDRmQnJaYlRTbGc1cjhVdTNYODJySmpyb2NPZXktTklKR2RheG9oOWlNR0Fhb0pvRzBPZkxOSzh3REVsalFVaEJ5T1p2ME93?oc=5",
+      "points": [
+        "报道聚焦“APEC人工智能高级别论坛举行”，核心信息来自 人民网财经 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、科技、中国 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 AI、科技、中国 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、科技、中国 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "quan-chuang-ye-chuang-xin",
+      "rank": "05",
+      "title": "让全社会创业创新环境更优（总书记的关切·落地的回响）",
+      "source": "中国共产党新闻网",
+      "badge": "中国",
+      "summary": "让全社会创业创新环境更优（总书记的关切·落地的回响） 中国共产党新闻网",
+      "date": "2026 年 7 月 26 日",
+      "time": "00:07 GMT",
+      "tags": [
+        "中国",
+        "中国共产党新闻网"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93STZYSEtrWTdTYTdhSXotLUwwcGRibUFtYWhuRHVmd1hxdG5WdVdBZGozOTJQU0w2eEVZTUZUMzFRWVQzN1ZHZGRNOV9ZWnVNNXZyUVZmQTVwZG5mWm0tdkVBcU4td1FMWlE?oc=5",
+      "points": [
+        "报道聚焦“让全社会创业创新环境更优（总书记的关切·落地的回响）”，核心信息来自 中国共产党新闻网 的公开报道。",
+        "从关键词看，这条新闻主要关联 中国、中国共产党新闻网 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 中国、中国共产党新闻网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 中国、中国共产党新闻网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "mei-zhong-guo-guo",
       "rank": "06",
-      "title": "华润集团原党委委员、副总经理韩嵩严重违纪违法被开除党籍和公职",
+      "title": "美丽中国丨探访广西山口红树林生态国家级自然保护区",
+      "source": "新华社广西分社",
+      "badge": "中国",
+      "summary": "美丽中国丨探访广西山口红树林生态国家级自然保护区 新华社广西分社 在Google 新闻上查看更多头条新闻和观点",
+      "date": "2026 年 7 月 26 日",
+      "time": "01:52 GMT",
+      "tags": [
+        "中国",
+        "新华社广西分社"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOVVPcm5tNVY2NU9CcXM1aTVJYVd3bG42SEdXdDFVc2RzODhrUzlIYUdyS29KN0dYNGlyOVNLWFFJNXFsTW5NVEJEeUlncWhUbVIxVHd2TEtLX0RlRTdkZGVfOXN0MlNEblN6SFJ4eUVVRXdIdjd0RFJMd0N2VGNXdGdR?oc=5",
+      "points": [
+        "报道聚焦“美丽中国丨探访广西山口红树林生态国家级自然保护区”，核心信息来自 新华社广西分社 的公开报道。",
+        "从关键词看，这条新闻主要关联 中国、新华社广西分社 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 中国、新华社广西分社 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 中国、新华社广西分社 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "news",
+      "rank": "07",
+      "title": "福建终止防台风应急响应 维持防汛四级应急响应",
+      "source": "同花顺",
+      "badge": "同花顺",
+      "summary": "福建终止防台风应急响应 维持防汛四级应急响应 同花顺 台风环流北上制造大范围降雨 重庆浙江等地持续高温闷热 新华网 国家防减救灾委对广东启动国家四级救灾应急响应 finance.sina.com.cn 台风“红霞”在广东惠州登陆，多地将有大风暴雨 光明网 台风来了，如何科学应对？ 凤凰网",
+      "date": "2026 年 7 月 26 日",
+      "time": "02:14 GMT",
+      "tags": [
+        "同花顺"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIaUp5WDBCdGxiallqdlR0U2xFNTR1Zjhoa3JwcnVrMC0zYWxaNXV1UG5kWnJIRGFWTF8xdUZtS0I0R2dkdXFIVnFQSnUxdnlObk1DWWFxUFljc1Jrbmc?oc=5",
+      "points": [
+        "报道聚焦“福建终止防台风应急响应 维持防汛四级应急响应”，核心信息来自 同花顺 的公开报道。",
+        "从关键词看，这条新闻主要关联 同花顺 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 同花顺 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 同花顺 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "ji-chu-gong-zuo",
+      "rank": "08",
+      "title": "焦点访谈丨未来基础教育工作怎样做 总书记提出明确要求",
+      "source": "新华报业网",
+      "badge": "新华报业网",
+      "summary": "焦点访谈丨未来基础教育工作怎样做 总书记提出明确要求 新华报业网 在Google 新闻上查看更多头条新闻和观点",
+      "date": "2026 年 7 月 26 日",
+      "time": "03:28 GMT",
+      "tags": [
+        "新华报业网"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WQjJKZlNVby1pN3JkR3NSNFplX3BxX0t0RHJfbm9hZUswYUxLUGluMnZseTZ3UVJjUExFUFRLcmVGbTRRZU04d0R2Z0p2ZkZES0ZkTGV4c1IwTVdLTUlJdzM2QU5hcnFCVmdF?oc=5",
+      "points": [
+        "报道聚焦“焦点访谈丨未来基础教育工作怎样做 总书记提出明确要求”，核心信息来自 新华报业网 的公开报道。",
+        "从关键词看，这条新闻主要关联 新华报业网 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 新华报业网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 新华报业网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "iii",
+      "rank": "09",
+      "title": "水利部将针对江西、湖南、广东省的洪水防御应急响应提升至Ⅲ级",
       "source": "新华网",
       "badge": "新华网",
-      "summary": "华润集团原党委委员、副总经理韩嵩严重违纪违法被开除党籍和公职 新华网 海南省人大常委会原党组成员、副主任肖杰严重违纪违法被开除党籍 新京报",
-      "date": "2026 年 7 月 25 日",
-      "time": "03:15 GMT",
+      "summary": "水利部将针对江西、湖南、广东省的洪水防御应急响应提升至Ⅲ级 新华网 在Google 新闻上查看更多头条新闻和观点",
+      "date": "2026 年 7 月 26 日",
+      "time": "02:08 GMT",
       "tags": [
         "新华网"
       ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOE9oa0Z5VTluS2k2Q2Q4Q21nR2hJWVF5a0pBMldFdDFIbUlGaDhadkN6eV9CUy1ldkdrd1RQVFpqZHphQzRYMUxEN3Y1SXhNZU9NOXVQNjR2cURQenl2eGZac2JMQlp2QVoxVE9JWU9hc2ptSzRLZFRucmduREs2VUQ1U3IzZHNM?oc=5",
+      "originalUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRDlpZFE2cU9MdnhyRGZBSXhxNVQ1b3dINlRGOFZRcFZzdUVteFZtbVJhLVRYNG1wbFY3TGhiTDI2UVFhR1J1blJMaXRqUzZ4aWZ3MUlFNXlJbUJWbXlLNWRrSk9GYkRRZlo3a01vb2I1Tkk3QVFiM25FcjZLT2NxOXA1TQ?oc=5",
       "points": [
-        "报道聚焦“华润集团原党委委员、副总经理韩嵩严重违纪违法被开除党籍和公职”，核心信息来自 新华网 的公开报道。",
+        "报道聚焦“水利部将针对江西、湖南、广东省的洪水防御应急响应提升至Ⅲ级”，核心信息来自 新华网 的公开报道。",
         "从关键词看，这条新闻主要关联 新华网 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
@@ -139,91 +199,25 @@
       "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 新华网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "fa-ye-gong",
-      "rank": "07",
-      "title": "引力一号遥四成功发射，上海正打通商业航天“最后一公里”",
-      "source": "央广网",
-      "badge": "中国",
-      "summary": "引力一号遥四成功发射，上海正打通商业航天“最后一公里” 央广网 在Google 新闻上查看更多头条新闻和观点",
-      "date": "2026 年 7 月 24 日",
-      "time": "16:06 GMT",
-      "tags": [
-        "中国",
-        "央广网"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVDkxcHA5T2RaRzJUMFA1ajJIc2x0ZmIxdWFyNWlWMk9oV216Y2REdDZYNDd4Sl95YThVNy1pdUFJMWtXRHFOWlctalVXX19YSFV4aTVPMU9PTVAxZTVoX3Ryc2hWVkREbW5fc2hlbUJPR2l2NjFwWkhSSnY0dGJELQ?oc=5",
-      "points": [
-        "报道聚焦“引力一号遥四成功发射，上海正打通商业航天“最后一公里””，核心信息来自 央广网 的公开报道。",
-        "从关键词看，这条新闻主要关联 中国、央广网 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 中国、央广网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 中国、央广网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "zhang",
-      "rank": "08",
-      "title": "王毅会见伊朗外长阿拉格齐",
-      "source": "证券时报",
-      "badge": "证券时报",
-      "summary": "王毅会见伊朗外长阿拉格齐 证券时报 王毅会见伊朗外长阿拉格齐_手机新浪网 新浪财经 王毅晤伊朗外长 称中方关切中东海湾局势再度紧张升级 香港電台 王毅晤伊朗外长中方对局势再度升级深表关切｜即时新闻｜中港台｜on.cc东网 on.cc東網 王毅会见伊朗外长重申和平谈判，中方坚定支持中东稳定 无忧资讯",
-      "date": "2026 年 7 月 24 日",
-      "time": "23:45 GMT",
-      "tags": [
-        "证券时报"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16SnNHcno3RlNfMW9lN3Njem90Nko3X0huTmpmcHRtam84a05UTVBuT2FRaEtaUGZka2hWdDhPcXZKTkV4T0xEUzZyY3p0VmFlMHQtZFhVcDZRc2ZE?oc=5",
-      "points": [
-        "报道聚焦“王毅会见伊朗外长阿拉格齐”，核心信息来自 证券时报 的公开报道。",
-        "从关键词看，这条新闻主要关联 证券时报 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 证券时报 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 证券时报 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "zhong-guo",
-      "rank": "09",
-      "title": "中国气象局升级台风暴雨强对流三级应急响应为二级",
-      "source": "天气网",
-      "badge": "中国",
-      "summary": "中国气象局升级台风暴雨强对流三级应急响应为二级 天气网 中国气象局升级台风、暴雨、强对流应急响应至二级 新华网 中国气象局启动重大气象灾害Ⅱ级应急响应 观察者 广东汕尾：全体市民提前准备充足食物 应对台风“五停”措施 中华网 台风来了怎么办？一定牢记这四个字！丨气象灾害防御明白卡 新浪财经",
-      "date": "2026 年 7 月 25 日",
-      "time": "02:18 GMT",
-      "tags": [
-        "中国",
-        "天气网"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oVEVMWDNhU1N0VU5vVEp3OS1JbHpwVkpzcGh0S1RyR0g1dFRmMWhXSjhiZEtDVVZjX2xwLWdzLXpjaHAtZUJuY1RUS3VaUTMyM2lpcjlvbGpaR2cz?oc=5",
-      "points": [
-        "报道聚焦“中国气象局升级台风暴雨强对流三级应急响应为二级”，核心信息来自 天气网 的公开报道。",
-        "从关键词看，这条新闻主要关联 中国、天气网 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 中国、天气网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 中国、天气网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "da",
+      "id": "zhong-39-ren-23-ren",
       "rank": "10",
-      "title": "北大点亮博雅塔祝贺王虹邓煜 菲尔兹奖荣耀时刻",
-      "source": "中华网",
-      "badge": "中国",
-      "summary": "北大点亮博雅塔祝贺王虹邓煜 菲尔兹奖荣耀时刻 中华网 日媒也来蹭：王虹因破解日本学者挂谷猜想，获菲尔兹奖 凤凰网 在美中国学者菲尔兹奖现场直击：数学研究是长跑，中国数学新生代力量正崛起 新浪财经 对话菲尔兹奖首位华人得主：王虹和邓煜是伟大的突破 中国青年网 北大校友王虹、邓煜荣获菲尔兹奖 北京大学新闻网",
-      "date": "2026 年 7 月 24 日",
-      "time": "23:08 GMT",
+      "title": "越南籍船舶南海遇险沉没 中方救起39人仍有23人失联",
+      "source": "东方财富",
+      "badge": "东方财富",
+      "summary": "越南籍船舶南海遇险沉没 中方救起39人仍有23人失联 东方财富 越南籍船舶南海遇险沉没，中方救起39人仍有23人失联 手机新浪网 一越南船舶在南海遇险沉没，36人获救26人失联 观察者 一艘越南籍渔船在南沙遇险 29人获救33人待救 新京报 越南籍船舶南沙海域遇险 37人获救 Sohu",
+      "date": "2026 年 7 月 26 日",
+      "time": "02:48 GMT",
       "tags": [
-        "中国",
-        "中华网"
+        "东方财富"
       ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lRDZ0eFZPcE5wc05IcUMyUklCcEdlQ1UzdVVhQVFwY0wwYXJDQVBDeU42NzN0R1kydEV2VXd2QWJkZ0FDTWplaTYtZWd6U1lDcXFZOVh2dFVyWnVYWnhpekFWTmtWbTdyWnhJYXFHb0M?oc=5",
+      "originalUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OdnJtTXVMX0xFS3VUWmZreUIxd21lenF2aWlPd2x5aWZ3cU5wZVFROEliQmFSeVlGQmtEV0lDVmVlb0tHejdNcFZWTTlLeVc5N1hvcWZ2WUNLN2IwMFlhaA?oc=5",
       "points": [
-        "报道聚焦“北大点亮博雅塔祝贺王虹邓煜 菲尔兹奖荣耀时刻”，核心信息来自 中华网 的公开报道。",
-        "从关键词看，这条新闻主要关联 中国、中华网 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“越南籍船舶南海遇险沉没 中方救起39人仍有23人失联”，核心信息来自 东方财富 的公开报道。",
+        "从关键词看，这条新闻主要关联 东方财富 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 中国、中华网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 中国、中华网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 东方财富 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 东方财富 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     }
   ]
 }
