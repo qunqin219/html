@@ -1,226 +1,224 @@
 {
-  "updatedAt": "2026 年 8 月 9 日",
+  "updatedAt": "2026 年 8 月 10 日",
   "items": [
     {
-      "id": "shu-ju-zhong-guo-jing",
+      "id": "news",
       "rank": "01",
-      "title": "多赛道跑出“加速度” 一组数据读懂中国经济底气",
-      "source": "东方财富",
+      "title": "台风“白海豚”减弱为热带风暴级 浙沪苏皖豫冀等地有强降雨",
+      "source": "中国网新闻中心",
+      "badge": "中国",
+      "summary": "台风“白海豚”减弱为热带风暴级 浙沪苏皖豫冀等地有强降雨 中国网新闻中心 三预警齐发，“白海豚”将继续向西北方向移动，强度逐渐减弱-观察者网 观察者网 沪昆高铁等多条线路列车陆续恢复开行 新浪财经 台风“白海豚”两度登陆浙江 超过百万人疏散 RFI 浙江安徽等地台风雨仍猛烈华北到江南高温将缩减-资讯 天气网",
+      "date": "2026 年 8 月 10 日",
+      "time": "01:18 GMT",
+      "tags": [
+        "中国",
+        "中国网新闻中心"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CR2VjYU1qTXVpTlo0NEJZX1dNUTVvUTB4WndPRk1LY050dW14eDluZUw0cW1Hd3UyLUQwMVF0ZHZJanNXSWRHVktvWVVJZFMtSlVJZTA0c2FTNXNSaFRvdGxXZlFqRjMzNUQ4?oc=5",
+      "points": [
+        "报道聚焦“台风“白海豚”减弱为热带风暴级 浙沪苏皖豫冀等地有强降雨”，核心信息来自 中国网新闻中心 的公开报道。",
+        "从关键词看，这条新闻主要关联 中国、中国网新闻中心 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 中国、中国网新闻中心 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 中国、中国网新闻中心 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "ke-ji-chuang-xin-kai",
+      "rank": "02",
+      "title": "一见·从科技创新看开局起步的时与势",
+      "source": "politics.people.com.cn",
+      "badge": "科技",
+      "summary": "一见·从科技创新看开局起步的时与势 politics.people.com.cn 在Google 新闻上查看更多头条新闻和观点",
+      "date": "2026 年 8 月 10 日",
+      "time": "00:56 GMT",
+      "tags": [
+        "科技",
+        "politics.people.co"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NQk5ZdzdjaUhkLUFKVjQwenpnTVlnYlVCSTNEQ21zS1ZONlRvUFRPcUhEaUk2QTlUcXk3eE4yMHQxSnVpaWpkeXowbEVDQW5UcXF4aXJqZWRWczdRVklEOUVNbWNlMzEwWEkwQzVVMEdSUQ?oc=5",
+      "points": [
+        "报道聚焦“一见·从科技创新看开局起步的时与势”，核心信息来自 politics.people.com.cn 的公开报道。",
+        "从关键词看，这条新闻主要关联 科技、politics.people.co 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 科技、politics.people.co 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 科技、politics.people.co 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "da-shou",
+      "rank": "03",
+      "title": "“北大仓”迎来小麦收获季",
+      "source": "中证网",
+      "badge": "中证网",
+      "summary": "“北大仓”迎来小麦收获季 中证网 在Google 新闻上查看更多头条新闻和观点",
+      "date": "2026 年 8 月 9 日",
+      "time": "23:39 GMT",
+      "tags": [
+        "中证网"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hQU1BdHVfd2FUTXJ3bU1vRGl2Rm9yRHRnVjhMUnoyUDVNMnR5dmtpeW9CaGxJenBfb3Z3M1NzUWNINEYyWGlsZVRFOWFRYl9obmExa2ZNNnNxWWhYTUNhd0RZUndrZFNDS1VPeXR2VE81Mk4tckVDbQ?oc=5",
+      "points": [
+        "报道聚焦““北大仓”迎来小麦收获季”，核心信息来自 中证网 的公开报道。",
+        "从关键词看，这条新闻主要关联 中证网 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 中证网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 中证网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "zheng-she-zhong-guo",
+      "rank": "04",
+      "title": "习近平党建思想赋予马克思主义政党建设理论鲜明的中国特色",
+      "source": "dangjian.cn",
+      "badge": "中国",
+      "summary": "习近平党建思想赋予马克思主义政党建设理论鲜明的中国特色 dangjian.cn 学习新语·铸魂强党丨建设堪当民族复兴重任的高素质干部队伍 新华网 坚持推进作风建设常态化长效化 新浪财经 中国法官培训网上线“习近平党建思想”课程专区为锻造新时代高素质审判队伍注入思想动力 court.gov.cn 青听一习话｜坚持不忘初心、牢记使命 搜狐网",
+      "date": "2026 年 8 月 10 日",
+      "time": "01:55 GMT",
+      "tags": [
+        "中国",
+        "dangjian.cn"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HQUpid1NieTE0dDYzdUl0SC1BN3FVYjdTYkQtekh5Y2tXTEk3YzdGRmNDdnZJSWw3QmwxLU1QaUNxcENVMUROd3I0SkR4a0xHSWo1eXRTU1R4c19uYjh4Zkl0SHpocWVjb3lPeEhpdnZYeWhz?oc=5",
+      "points": [
+        "报道聚焦“习近平党建思想赋予马克思主义政党建设理论鲜明的中国特色”，核心信息来自 dangjian.cn 的公开报道。",
+        "从关键词看，这条新闻主要关联 中国、dangjian.cn 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 中国、dangjian.cn 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 中国、dangjian.cn 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "zheng",
+      "rank": "05",
+      "title": "时政镜距离丨下党之路",
+      "source": "中国网新闻中心",
       "badge": "AI",
-      "summary": "多赛道跑出“加速度” 一组数据读懂中国经济底气 东方财富 一见·三个关键词，读懂中国经济“半年答卷” 光明网 从3.6万亿元增量看动能之新、结构之优 人民日报 新华社经济随笔：从工业曲线看产业发展新风景 finance.sina.cn 经纬线·向新，向前- 中国日报网 China Daily",
-      "date": "2026 年 8 月 8 日",
-      "time": "21:52 GMT",
+      "summary": "时政镜距离丨下党之路 中国网新闻中心 时政镜距离｜下党之路- 中国日报网 China Daily 回信七周年 寿宁晒出乡村振兴答卷 东南网 寿宁：绿水青山映初心 滴水穿石践使命 东南网 时政镜距离｜下党之路_大陆_国内新闻_新闻 齐鲁网",
+      "date": "2026 年 8 月 10 日",
+      "time": "00:44 GMT",
       "tags": [
         "AI",
+        "中国",
+        "中国网新闻中心"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uaXpKbm9qSnJ2M3VYWk1TNFIzNHNmaHo5SS04VmZUdUFYWUowcXYyNmlDQ1cyTEQwaGk2VzMwMHBJZVEwM0ZnM2IxQ21fMzhvSmVUamk5WDNaVjhvcDNIZEctTzZmb21qbHhR?oc=5",
+      "points": [
+        "报道聚焦“时政镜距离丨下党之路”，核心信息来自 中国网新闻中心 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、中国、中国网新闻中心 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 AI、中国、中国网新闻中心 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、中国、中国网新闻中心 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "da-fa-xin-ti-mei-f-16-ji-chang-jing",
+      "rank": "06",
+      "title": "伊朗高层重大变动，最高领袖发出新任命；特朗普：“低调处理”伊朗问题；美军出动F-16拦截两架飞机；于东来回应关闭生活广场店丨每经早参",
+      "source": "每日经济新闻",
+      "badge": "科技",
+      "summary": "伊朗高层重大变动，最高领袖发出新任命；特朗普：“低调处理”伊朗问题；美军出动F-16拦截两架飞机；于东来回应关闭生活广场店丨每经早参 每日经济新闻 美要“换牌” 伊朗“换将” 美伊博弈变数犹存 中国日报网 财经早报：伊朗高层重大变动，最高领袖发出新任命，宇树科技今申购中一签有望赚20万元丨2026年8月10日 新浪财经 伊朗任命雷扎伊为最高国家安全委员会秘书…",
+      "date": "2026 年 8 月 9 日",
+      "time": "22:57 GMT",
+      "tags": [
         "科技",
         "财经",
-        "中国"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yZ19hQVEtc0lhQ1g4NWFNS1NvUWdJa3hBTmsyam9VNjF6UlZNV3VHS1Nwbk9ORmVZejNIVDVCTHNMTTlkQkY3XzlaMzhCTHdqTFdwdWJkYlZaMnI3TmVwWA?oc=5",
-      "points": [
-        "报道聚焦“多赛道跑出“加速度” 一组数据读懂中国经济底气”，核心信息来自 东方财富 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、科技、财经 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 AI、科技、财经 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、科技、财经 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "xin-quan-xing",
-      "rank": "02",
-      "title": "学习新语·铸魂强党丨健全上下贯通执行有力的组织体系",
-      "source": "新华网",
-      "badge": "国际",
-      "summary": "学习新语·铸魂强党丨健全上下贯通执行有力的组织体系 新华网 以强烈的使命担当勇担复兴重任 finance.sina.cn 市委常委会召开会议 认真学习贯彻习近平党建思想 传达全国党建工作座谈会精神 市委书记尹力主持会议 北京市人民政府门户网站 市委理论学习中心组开展专题辅导和交流研讨尹力强调深入学习贯彻习近平党建思想切实把学习成效转化为做好首都工作的实绩实效…",
-      "date": "2026 年 8 月 9 日",
-      "time": "01:08 GMT",
-      "tags": [
-        "国际",
         "中国",
-        "新华网"
+        "每日经济新闻"
       ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN1VadlpzendFd2hIWjRZVk0zenNGS19TeVNqZUwzMmdSRnplUUh2MVBCWmdULTJyQ3laU25YdE9UVk9PSk9FN3BoOFg5UDRiQy16WGs4bXE5Zm42dVNqMWlySlI1dnZXY1F2Z2w4S2ZHQXRoNW9OWDBqVzlLM1NrRW5kVnExV1dxVEpyRkxB?oc=5",
+      "originalUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iaXhycUlWNENGNXNjMURkcGtZdjhIaWtnNUxGTGFRM3U3TFlTRXB6SjlQbUs0NGp4WXZGb2hHTmdnbEZqQTRGUFd6NmdlVXJNUGI5RjlsR1R1MW9PZURQYWdmNUxyQQ?oc=5",
       "points": [
-        "报道聚焦“学习新语·铸魂强党丨健全上下贯通执行有力的组织体系”，核心信息来自 新华网 的公开报道。",
-        "从关键词看，这条新闻主要关联 国际、中国、新华网 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“伊朗高层重大变动，最高领袖发出新任命；特朗普：“低调处理”伊朗问题；美军出动F-16拦截两架飞机；于东来回应关闭生活广场店丨每经早参”，核心信息来自 每日经济新闻 的公开报道。",
+        "从关键词看，这条新闻主要关联 科技、财经、中国 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 国际、中国、新华网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 国际、中国、新华网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 科技、财经、中国 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 科技、财经、中国 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "ren-ji-guan-1-gong",
-      "rank": "03",
-      "title": "乌军无人机在距保加利亚天然气管道仅1公里爆炸，乌克兰：不是故意的",
-      "source": "guancha.cn",
-      "badge": "guancha.cn",
-      "summary": "乌军无人机在距保加利亚天然气管道仅1公里爆炸，乌克兰：不是故意的 guancha.cn 在Google 新闻上查看更多头条新闻和观点",
-      "date": "2026 年 8 月 8 日",
-      "time": "23:14 GMT",
-      "tags": [
-        "guancha.cn"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SYXBpeHlXZzBOT3NobWhxaW1EcHROZTFPYk4tbG5XUHk0QTlhaUYyRFlpTXp2NDZlOTRwemd6Y0R3UjlWMXFKb05lSVlLMFlrbklqa3RRUUxsbl9YZDhQS0hnWHZ4Y3M?oc=5",
-      "points": [
-        "报道聚焦“乌军无人机在距保加利亚天然气管道仅1公里爆炸，乌克兰：不是故意的”，核心信息来自 guancha.cn 的公开报道。",
-        "从关键词看，这条新闻主要关联 guancha.cn 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 guancha.cn 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 guancha.cn 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "i",
-      "rank": "04",
-      "title": "台风“白海豚”或于今晚到明早在浙江沿海登陆 浙江启动Ⅰ级防台风应急响应",
-      "source": "hznews.hangzhou.com.cn",
-      "badge": "中国",
-      "summary": "台风“白海豚”或于今晚到明早在浙江沿海登陆 浙江启动Ⅰ级防台风应急响应 hznews.hangzhou.com.cn 中国气象局升级调整应急响应为（台风、暴雨、强对流）二级 新华网 最新：今日浦东和虹桥机场近六成进出港航班调减取消，涉1384架次 finance.sina.cn 提高警惕！浙江全省49县发布山洪红色预警 浙江新闻 台风“白海豚”何时影响江西？…",
-      "date": "2026 年 8 月 9 日",
-      "time": "00:15 GMT",
-      "tags": [
-        "中国",
-        "hznews.hangzhou.co"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORmVsSUV6OUpzX3IxWDdGTXBPWXlGRk1EOG15M3ozU2VTQ1Z6RGpwbjlXQnpRLVNvVlBjc2xKSXpDUFU5dFBqV01Td2xaY01BWDBnbk82ZVlmYVFVN19mX0JsdldoLUp5dmdFT1hyQVhQX01od1RkOXpPcUJyaHVoRXBJWG4?oc=5",
-      "points": [
-        "报道聚焦“台风“白海豚”或于今晚到明早在浙江沿海登陆 浙江启动Ⅰ级防台风应急响应”，核心信息来自 hznews.hangzhou.com.cn 的公开报道。",
-        "从关键词看，这条新闻主要关联 中国、hznews.hangzhou.co 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 中国、hznews.hangzhou.co 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 中国、hznews.hangzhou.co 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "shi-xin",
-      "rank": "05",
-      "title": "城市更新记",
-      "source": "中国共产党新闻网",
-      "badge": "中国",
-      "summary": "城市更新记 中国共产党新闻网 在Google 新闻上查看更多头条新闻和观点",
-      "date": "2026 年 8 月 9 日",
-      "time": "00:09 GMT",
-      "tags": [
-        "中国",
-        "中国共产党新闻网"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xaWFpWlFYVEFOVUM1cXhrVXA3UGdDNWJmZ3IwZmZqcy1Gc1hDdHM4a09GR2l6Q0R0WWdqMC1mT0x0VEdqZUtzNTNHa2dkNW9ZR0JDUWJUUzUyYTRlaXZneTBfYTBielBwczQw?oc=5",
-      "points": [
-        "报道聚焦“城市更新记”，核心信息来自 中国共产党新闻网 的公开报道。",
-        "从关键词看，这条新闻主要关联 中国、中国共产党新闻网 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 中国、中国共产党新闻网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 中国、中国共产党新闻网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "fa-10-da",
-      "rank": "06",
-      "title": "三警齐发！多地10级以上雷暴大风 强对流与暴雨预警",
-      "source": "news.china.com",
-      "badge": "news.china.com",
-      "summary": "三警齐发！多地10级以上雷暴大风 强对流与暴雨预警 news.china.com 强对流天气蓝色预警：安徽江苏等6省市将有10级以上雷暴大风 新华网 重庆贵州陕西等地有强降水 东北华北等地有强对流天气 sohu.com 暴雨强对流双预警！江浙沪皖等地周末出行注意了 jiemian.com 中东部桑拿天在线 未来两天多地高温持续 news.china.com",
-      "date": "2026 年 8 月 8 日",
-      "time": "23:11 GMT",
-      "tags": [
-        "news.china.com"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Wa0V6eDNJZUQtcjN0QU5BWkNhcUdoS0w5YjVZN3A5Wk53dUdaVVVNem9VTnAzdWVmLU1WbFhGSndvXzdka2s2bzFWRmRuSmNBaDVuNWpOYmgyZW14VjBOWkdEOEFtM0hWUkRCdi1LMV8?oc=5",
-      "points": [
-        "报道聚焦“三警齐发！多地10级以上雷暴大风 强对流与暴雨预警”，核心信息来自 news.china.com 的公开报道。",
-        "从关键词看，这条新闻主要关联 news.china.com 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 news.china.com 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 news.china.com 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "news",
+      "id": "zhong-gong-900",
       "rank": "07",
-      "title": "未来五年 地质灾害防范会有哪些变化？",
-      "source": "中国经济网",
-      "badge": "财经",
-      "summary": "未来五年 地质灾害防范会有哪些变化？ 中国经济网 在Google 新闻上查看更多头条新闻和观点",
-      "date": "2026 年 8 月 8 日",
-      "time": "23:24 GMT",
+      "title": "南水北调东中线一期工程调水超900亿立方米",
+      "source": "第一财经",
+      "badge": "第一财经",
+      "summary": "南水北调东中线一期工程调水超900亿立方米 第一财经 在Google 新闻上查看更多头条新闻和观点",
+      "date": "2026 年 8 月 10 日",
+      "time": "02:06 GMT",
       "tags": [
-        "财经",
-        "中国",
-        "中国经济网"
+        "第一财经"
       ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10M1YxN1l3OHYzcXRsOVVzeV9lNlhzVWxTMVJWWjdkX0FlaVAxUURuTkVmNE5VUmpzaXo5R3JGWEtZUDl6aHJidWF2YU9UU0NPUFZYZ0YwYkFKY0RGWUQzcDRrYW55cGZCdVFhMUg0aw?oc=5",
+      "originalUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CSHhfRVFNa05nUlh3Y1pFRGx5QVNkSS0zSjRpd0xLb3B0UURMTXRzOHo5YjFXQUJucHRST1N5OE5feEtZMFNqRnBmaVo4VFlGV1Nn?oc=5",
       "points": [
-        "报道聚焦“未来五年 地质灾害防范会有哪些变化？”，核心信息来自 中国经济网 的公开报道。",
-        "从关键词看，这条新闻主要关联 财经、中国、中国经济网 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“南水北调东中线一期工程调水超900亿立方米”，核心信息来自 第一财经 的公开报道。",
+        "从关键词看，这条新闻主要关联 第一财经 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 财经、中国、中国经济网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 财经、中国、中国经济网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 第一财经 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 第一财经 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "guo-da-i-kai-fa-quan-tou-chan",
+      "id": "zhong-guo-ye-fa-yin-xing-kai",
       "rank": "08",
-      "title": "我国渤海首个千亿方大气田Ⅰ期开发项目全面投产",
-      "source": "新华网",
-      "badge": "新华网",
-      "summary": "我国渤海首个千亿方大气田Ⅰ期开发项目全面投产 新华网",
-      "date": "2026 年 8 月 9 日",
-      "time": "00:30 GMT",
+      "title": "中国农业发展银行专家委员会原研究员黄小卫被开除党籍",
+      "source": "chnfund.com",
+      "badge": "中国",
+      "summary": "中国农业发展银行专家委员会原研究员黄小卫被开除党籍 chnfund.com",
+      "date": "2026 年 8 月 10 日",
+      "time": "02:05 GMT",
       "tags": [
-        "新华网"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zblJpSG4tUjYzRXc5a09TSllHMGUzcnZWWE1rdEdEbm93bDNldGlqQXYta19Pc1FFRUN6V3dwZHJBYWhHMXZaNGJhVGJIX3NDTHhpci1Cel9sM1Ribmx6eWdDSGplT1dxQkpCcElTVVdaWU9GUW9zVmpWQmFpWGs?oc=5",
-      "points": [
-        "报道聚焦“我国渤海首个千亿方大气田Ⅰ期开发项目全面投产”，核心信息来自 新华网 的公开报道。",
-        "从关键词看，这条新闻主要关联 新华网 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 新华网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 新华网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "kai",
-      "rank": "09",
-      "title": "内蒙古自治区第十六届运动会开幕",
-      "source": "人民网",
-      "badge": "人民网",
-      "summary": "内蒙古自治区第十六届运动会开幕 人民网 “赛场边就能尝遍内蒙古美味” finance.sina.cn 快讯 | 内蒙古自治区第十六届运动会开幕式在包头盛大举行 人民网 乐享十六运 悦动新包头 追梦内蒙古 内蒙古自治区第十六届运动会明日开幕 央视网 （体育）2026年“全民健身日”内蒙古主会场活动在包头市举办 sohu.com",
-      "date": "2026 年 8 月 8 日",
-      "time": "16:22 GMT",
-      "tags": [
-        "人民网"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BY3VTeWloaDRsMFRVcWhUSGVPNlNRTmJYWmRzazVndVNKeF9NYzloa2xDRFE4UlhTMFZ2X1VDRGNSWHQxMWxtanJ2cVVQOGktSS1pSXQ4N1lZOWZPSW92T2N5aTgxYUY1emc?oc=5",
-      "points": [
-        "报道聚焦“内蒙古自治区第十六届运动会开幕”，核心信息来自 人民网 的公开报道。",
-        "从关键词看，这条新闻主要关联 人民网 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 人民网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 人民网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "2026-quan-ri-ti",
-      "rank": "10",
-      "title": "2026江苏省“全民健身日”主题活动启动",
-      "source": "江苏省委新闻网",
-      "badge": "国际",
-      "summary": "2026江苏省“全民健身日”主题活动启动 江苏省委新闻网 近30项活动登场 吸引约1.55万人次参与 “全民健身日”打造惠民盛宴 北京市人民政府门户网站 2026年“江西省全民健身周”主题活动在九江启动 凤凰网江西 追光 | 最好的健康，是把运动融入日常 新华网 广州本月陆续推出20多项群众体育赛事 覆盖老中青幼全年龄段 finance.sina.cn",
-      "date": "2026 年 8 月 9 日",
-      "time": "00:31 GMT",
-      "tags": [
-        "国际",
         "中国",
-        "江苏省委新闻网"
+        "chnfund.com"
       ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxMDZld19yVjhHN3BnbmRLb0UwVV81S3lCZzFjZmxrdEg2Qk5heGQxWWtkMG5kR1BaaHZTOXROMDJJWVlGTV9rdlRUcGxOUGhmc0docmpnUDViME1veE5reUZzM3BjbmlnRWtrY2lyM3M?oc=5",
+      "originalUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mUEM1bWhJUTUtNXI2Nk5lQkxLTk82R3NhckxXeHN4eFpEeEVlWUlRTzlxa1l1ZGVPa2VWckpJZkhkOGE5X19WNnZ6RzVNZnFNZ2Z5VUtFdTJta0h3VmhfcUNVSl9PSVJFUnQxVTJOZzh3aTFidEpoUDRR?oc=5",
       "points": [
-        "报道聚焦“2026江苏省“全民健身日”主题活动启动”，核心信息来自 江苏省委新闻网 的公开报道。",
-        "从关键词看，这条新闻主要关联 国际、中国、江苏省委新闻网 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“中国农业发展银行专家委员会原研究员黄小卫被开除党籍”，核心信息来自 chnfund.com 的公开报道。",
+        "从关键词看，这条新闻主要关联 中国、chnfund.com 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 国际、中国、江苏省委新闻网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 国际、中国、江苏省委新闻网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 中国、chnfund.com 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 中国、chnfund.com 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "gong-an-an-gong-bu-15",
+      "rank": "09",
+      "title": "公安部网安局再次公布15起涉汛涉灾网络谣言案例",
+      "source": "光明网",
+      "badge": "光明网",
+      "summary": "公安部网安局再次公布15起涉汛涉灾网络谣言案例 光明网 在Google 新闻上查看更多头条新闻和观点",
+      "date": "2026 年 8 月 10 日",
+      "time": "00:21 GMT",
+      "tags": [
+        "光明网"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8waGk0RC1pMUlFWF8yT0FNdHhoTzR2cWJYampfRGhQQW5VQzNFUElfa1ozaUk4dU1GMFJGSnNKT0JtclV1cVdWM0RFV1h1NnZtUlBpMEdpSVNkV2R6YkhtWUZR?oc=5",
+      "points": [
+        "报道聚焦“公安部网安局再次公布15起涉汛涉灾网络谣言案例”，核心信息来自 光明网 的公开报道。",
+        "从关键词看，这条新闻主要关联 光明网 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 光明网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 光明网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "xin-kai",
+      "rank": "10",
+      "title": "【自治区第十六届运动会】光影溯文脉 圣火启新程——十六运开幕式尽显鹿城风华",
+      "source": "内蒙古新闻网",
+      "badge": "内蒙古新闻网",
+      "summary": "【自治区第十六届运动会】光影溯文脉 圣火启新程——十六运开幕式尽显鹿城风华 内蒙古新闻网 让体育回归本真——内蒙古自治区第十六届运动会开幕综述 新华网 内蒙古护航重大体育赛事食品安全 新浪财经 穿越锡林郭勒草原火山线 1500余名跑者夏季赏野趣 QQ News 内蒙古“十六”运开幕星河璀璨 赛场外气象人 “追风逐雨” 搜狐网",
+      "date": "2026 年 8 月 10 日",
+      "time": "01:17 GMT",
+      "tags": [
+        "内蒙古新闻网"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nRE5oUzRHUDVsbkR5NEJvM2xiamlsLVROUE12OXJJRU11dUlrTHpYUTRJd1ZFWk03NFdaV0VkR21VZ05lc25sZGxJM2pkVENXQWxGRm9sa29rRUVqNzF3aWZ0elFod0ZSaWtJQWxtQQ?oc=5",
+      "points": [
+        "报道聚焦“【自治区第十六届运动会】光影溯文脉 圣火启新程——十六运开幕式尽显鹿城风华”，核心信息来自 内蒙古新闻网 的公开报道。",
+        "从关键词看，这条新闻主要关联 内蒙古新闻网 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 内蒙古新闻网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 内蒙古新闻网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     }
   ]
 }
