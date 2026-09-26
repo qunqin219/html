@@ -1,232 +1,231 @@
 {
-  "updatedAt": "2026 年 9 月 25 日",
+  "updatedAt": "2026 年 9 月 26 日",
   "items": [
     {
-      "id": "mei-guo-xing-quan",
+      "id": "mei-guo",
       "rank": "01",
-      "title": "习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）",
-      "source": "新华网",
-      "badge": "国际",
-      "summary": "习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文） 新华网 在Google 新闻上查看更多头条新闻和观点",
+      "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+      "source": "福建省人民政府",
+      "badge": "AI",
+      "summary": "习近平和彭丽媛同美国总统特朗普夫妇茶叙 福建省人民政府 拾光纪·白宫里的三张照片，见证中美关系行稳致远- 中国日报网 China Daily 中美同意共同构建“基于尊重、公平、对等的建设性战略稳定关系” 北京市人民政府门户网站 特朗普致辞：感谢你们进行这一次具有历史意义的访问 观察者网 特朗普总统说，习近平的国事访问彰显了美国“实力”与“友谊”；总统助理称在…",
       "date": "2026 年 9 月 25 日",
-      "time": "01:04 GMT",
+      "time": "23:25 GMT",
       "tags": [
+        "AI",
         "国际",
+        "中国",
+        "福建省人民政府"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HbEUyMXlWc2FTc2I5eVdZaHVvdGRkVE5IY0hDX3FiNmtaQ3BHUGkzRFQtTFZFTWxpdmJlczZ4NUhVRUZfU21HeW03dGhmaTJxeHhhSklmbGROVGxLR2xVQWh0SjZOa2lUSUVjMmR0YXo?oc=5",
+      "points": [
+        "报道聚焦“习近平和彭丽媛同美国总统特朗普夫妇茶叙”，核心信息来自 福建省人民政府 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、国际、中国 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 AI、国际、中国 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、国际、中国 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "zhong-guo-zhong-xin-wen",
+      "rank": "02",
+      "title": "【网络中国节·中秋】明月照万家 城兴梦共圆_新闻频道",
+      "source": "厦门网",
+      "badge": "中国",
+      "summary": "【网络中国节·中秋】明月照万家 城兴梦共圆_新闻频道 厦门网 心上一轮月，人间万种圆 新浪财经 月明照万家 同心共此时——全国各地群众欢度中秋 新华网 好评中国丨万家灯火映明月，天涯何以共此时？ 中国青年网 人民领袖｜岁岁桂月寄深情 光明网",
+      "date": "2026 年 9 月 25 日",
+      "time": "23:29 GMT",
+      "tags": [
+        "中国",
+        "厦门网"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UT1dITXBKWHNDT3VqY0QxYXNOYWhCcUdhcldLSmROLUdxQ2hTWUNFd2M4dlNzLTVfX1l2cWRpdXZ3MWR1cDI2TEZ5Ml9oVG0waUxIdGtGUGRpMS1keFdNTGpNaHJiLVhMQ3c?oc=5",
+      "points": [
+        "报道聚焦“【网络中国节·中秋】明月照万家 城兴梦共圆_新闻频道”，核心信息来自 厦门网 的公开报道。",
+        "从关键词看，这条新闻主要关联 中国、厦门网 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 中国、厦门网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 中国、厦门网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "gong-guo",
+      "rank": "03",
+      "title": "北京：花坛施工迎国庆",
+      "source": "人民网-图片频道",
+      "badge": "中国",
+      "summary": "北京：花坛施工迎国庆 人民网-图片频道 “9米高机器人”等新元素亮相长安街立体花坛 新浪新闻_手机新浪网 天安门广场大花篮亮灯了 流光溢彩璀璨夺目 中华网 天安门广场“祝福祖国”巨型花篮下游人如织 中国日报网 长安街花坛拉琴少女演奏《我和我的祖国》，音乐时间表来了 新浪新闻_手机新浪网",
+      "date": "2026 年 9 月 25 日",
+      "time": "15:06 GMT",
+      "tags": [
+        "中国",
+        "人民网-图片频道"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiQnBOdnY5TktXRmVxVHkwaWNCQzRBN0h6UTd5MWsybHVnbS1TNWh3STNBTktqTmF2aUxyNVN3VkhteTdEOC0tcGNTRzZxd1ZuNUpHSnVoWkJwMGViZmloWDlWREZsc1p5?oc=5",
+      "points": [
+        "报道聚焦“北京：花坛施工迎国庆”，核心信息来自 人民网-图片频道 的公开报道。",
+        "从关键词看，这条新闻主要关联 中国、人民网-图片频道 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 中国、人民网-图片频道 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 中国、人民网-图片频道 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "chang-quan-zheng",
+      "rank": "04",
+      "title": "世赛现场看高手较量：全盲赛制、毫厘功夫、分秒必争",
+      "source": "新华网",
+      "badge": "中国",
+      "summary": "世赛现场看高手较量：全盲赛制、毫厘功夫、分秒必争 新华网 一生一“世”：世赛只限一次，赛场之外仍是技能人生 新浪财经 世赛青观察｜三名世赛技能梦想大使：技能可以改变人生 中国青年网 面对超21万种故障可能 重型车辆维修选手如何做到“一眼准”？ 央视网 世界技能大赛上的“空陆轨”(5) 凤凰网",
+      "date": "2026 年 9 月 26 日",
+      "time": "01:53 GMT",
+      "tags": [
+        "中国",
         "新华网"
       ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wQkYzaDhGRDk1YTR6ZG1rd19hMVNuUkwwbmJNTXlqSUhYWjVaUHpzSkVPQ3hrVVBuRlp0NTRGMmZDN1hrNGgwVHhFY1YtQ3lNbTJJNXhPNG5OS043elgxd01DczdzUTZhTS1iNjBXUFJQekVVTzlxOHAzSy0zU2c?oc=5",
+      "originalUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdHoxZlVQZEhkMDNkeGdnQnpzRXA3RDNDWEVmY1lyWmdTVU14WTVOVmIzaEExNVBhNjdZeWtucW1Ua29BREdRblNZMGJmYkplUW1mODYyQ3JXQVZMRWo5dVU5b3pkT3V5TWpMck9BeEJqN3gzbWlNZDlCNVpFOEFLVW5NMA?oc=5",
       "points": [
-        "报道聚焦“习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）”，核心信息来自 新华网 的公开报道。",
-        "从关键词看，这条新闻主要关联 国际、新华网 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“世赛现场看高手较量：全盲赛制、毫厘功夫、分秒必争”，核心信息来自 新华网 的公开报道。",
+        "从关键词看，这条新闻主要关联 中国、新华网 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 国际、新华网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 国际、新华网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 中国、新华网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 中国、新华网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "zhong-guo-an-quan-shou",
-      "rank": "02",
-      "title": "事关交通旅游消防避灾 中秋国庆安全防范请查收",
-      "source": "中华网",
-      "badge": "财经",
-      "summary": "事关交通旅游消防避灾 中秋国庆安全防范请查收 中华网 青海发布中秋国庆假期出游提示 新浪财经_金融信息服务商 节假日去热门景区、看大型演出如何防踩踏？专家给出16字提醒 thepaper.cn 应急管理部提示双节出行：避免盲目跟风前往“野景点”和非正规“网红打卡点” Jiemian.com 假期去山区景区旅游，看到哪些征兆必须立刻撤离？ 搜狐网",
-      "date": "2026 年 9 月 25 日",
-      "time": "01:14 GMT",
-      "tags": [
-        "财经",
-        "中华网"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45ajdfTHpRZHQwdlQ5MUpZVG8xM08zcEE5RFFjSUZIRmNKQVh2SndUeWZaLVlGUkhPZk8tUE92a3hVaWZWb2tkbWtsVWNfZjZMSjV6S0w0OVp3Q2hTam9URDVxMHJQeUFTeXc?oc=5",
-      "points": [
-        "报道聚焦“事关交通旅游消防避灾 中秋国庆安全防范请查收”，核心信息来自 中华网 的公开报道。",
-        "从关键词看，这条新闻主要关联 财经、中华网 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 财经、中华网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 财经、中华网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "da-mei-guo-da",
-      "rank": "03",
-      "title": "大熊猫“平平”“福双”将会落户美国亚特兰大动物园",
-      "source": "中国日报网",
-      "badge": "财经",
-      "summary": "大熊猫“平平”“福双”将会落户美国亚特兰大动物园 中国日报网 “平平”“福双”将赴美助力深化新一轮大熊猫保护国际合作--国际 人民网 习近平宣布两只大熊猫将入住亚特兰大动物园，北京再次恢复熊猫外交 美国之音 大熊猫平平福双将去亚特兰大动物园 新浪财经_金融信息服务商 习近平分享这个好消息，特朗普笑着点头致意 thepaper.cn",
-      "date": "2026 年 9 月 25 日",
-      "time": "00:09 GMT",
-      "tags": [
-        "财经",
-        "国际",
-        "中国",
-        "中国日报网"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02RFFBZ1VnNVlNUUtkelo3aFlGd29xMUhJR0RIYzljd0VBRDdGZEFOc0wtOVdiWWo3WlJaVVZGVHdEck1fQUFHcFNZek5VakNuNFZESlVBWnpfNk9RanhFMEY0VVA2SDc5S0FnZjV5dFJXbXd4M3lkRzRkbVc?oc=5",
-      "points": [
-        "报道聚焦“大熊猫“平平”“福双”将会落户美国亚特兰大动物园”，核心信息来自 中国日报网 的公开报道。",
-        "从关键词看，这条新闻主要关联 财经、国际、中国 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 财经、国际、中国 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 财经、国际、中国 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "she-zhong-guo-ren-ren",
-      "rank": "04",
-      "title": "特朗普总统夫妇在白宫设宴款待中国领导人习近平及夫人彭丽媛",
-      "source": "美国之音",
+      "id": "he-shou-jing",
+      "rank": "05",
+      "title": "兰州七里河：秋染老街百合香，双节同庆话丰收- 经济",
+      "source": "中工网",
       "badge": "科技",
-      "summary": "特朗普总统夫妇在白宫设宴款待中国领导人习近平及夫人彭丽媛 美国之音 美国多家科技企业掌门人出席白宫国宴；中国企业家不见踪影 美国之音 白宫公布国宴菜单，特别致敬1972年“和平祝酒” 观察者网 白宫欢迎仪式 细节都在这里 中国日报网 “习特会”国宴菜单：芝麻脆皮海鲈鱼和爽脆嫩白菜 纽约时报中文网",
-      "date": "2026 年 9 月 25 日",
-      "time": "03:09 GMT",
+      "summary": "兰州七里河：秋染老街百合香，双节同庆话丰收- 经济 中工网 深耕果业全链条 丰收盛会启新程 新浪财经 江城“丰景”上云 新农“屏上”种田 凤凰网 2026年中国农民丰收节德阳市庆丰收活动在四川广汉举行 新华网 省级盛会“主场效应”释放，坡头向海图强再蓄势 搜狐网",
+      "date": "2026 年 9 月 26 日",
+      "time": "00:20 GMT",
       "tags": [
         "科技",
+        "财经",
+        "中国",
+        "中工网"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BbDBJVFN0OThXRW9aYU15YWtPWFduTkZocHhoa0psdm1KM0VaQTc3bEdOeVVhai1pZlRTZEVxQTVRR3l4XzlCUGs0RXlpakNPMG15UTNkaEpmOEhDblBn?oc=5",
+      "points": [
+        "报道聚焦“兰州七里河：秋染老街百合香，双节同庆话丰收- 经济”，核心信息来自 中工网 的公开报道。",
+        "从关键词看，这条新闻主要关联 科技、财经、中国 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 科技、财经、中国 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 科技、财经、中国 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "zhong-zhong",
+      "rank": "06",
+      "title": "早参 | 烧番塔、鳌鱼灯巡游、舞狮舞龙……中秋夜广州好墟撼； 中秋主打暴晒，广州高温预警上线",
+      "source": "广州日报新花城",
+      "badge": "科技",
+      "summary": "早参 | 烧番塔、鳌鱼灯巡游、舞狮舞龙……中秋夜广州好墟撼； 中秋主打暴晒，广州高温预警上线 广州日报新花城 非遗手作粤语诗会搬进公园零门槛逛中秋雅集|广州市越秀区|流花湖公园|越秀区博物馆|彩云追月|中秋节_手机新浪网 新浪财经 广州荔湾推出多项民俗文化活动 邀市民游客共庆中秋佳节 搜狐网 赏灯、听曲、猜谜、看展双节到广州文化公园体验“岭南浪漫”|广州市|…",
+      "date": "2026 年 9 月 25 日",
+      "time": "23:59 GMT",
+      "tags": [
+        "科技",
+        "广州日报新花城"
+      ],
+      "originalUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbzhzOGhvOV81ZDktdmVHUlhoTU1RVlZnT0FLVWJPV0dKWkhlYzYzbkRleTB3aVpyclRNZ2Uyaldjd2d0dXZVU1pTT3ZlTUZSbF93ZXJDeWN5R1J5SzIxSVlLNl9mQVVjSXBvRW9LM0xzUXhjTzFjaE1NbTBPTkgtZ1R4aGd3dHdqZ1E?oc=5",
+      "points": [
+        "报道聚焦“早参 | 烧番塔、鳌鱼灯巡游、舞狮舞龙……中秋夜广州好墟撼； 中秋主打暴晒，广州高温预警上线”，核心信息来自 广州日报新花城 的公开报道。",
+        "从关键词看，这条新闻主要关联 科技、广州日报新花城 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 科技、广州日报新花城 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 科技、广州日报新花城 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "news",
+      "rank": "07",
+      "title": "习近平主席讲述赛考斯与殷玉珍的友谊故事",
+      "source": "新华网",
+      "badge": "国际",
+      "summary": "习近平主席讲述赛考斯与殷玉珍的友谊故事 新华网 “赛考斯”回应被习近平主席提及：太不可思议了 新浪新闻_手机新浪网 中美友谊之“树” 光明网 习近平主席在访美致辞里提到的红杉树，背后有“浙”样一个故事 浙江新闻 视频丨再续跨国友谊 美国友人“赛考斯”送上中秋祝福 中国日报网",
+      "date": "2026 年 9 月 25 日",
+      "time": "13:28 GMT",
+      "tags": [
         "国际",
         "中国",
-        "美国之音"
+        "新华网"
       ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbDVod0puV2VuWFFtenE5VjNUOXk5TWo5QS1rQnRWSHV1c3Q1RmZzUXRtVzJRWHB4c2VYaGpqaEFRTjhKbktLaF9abFFDeTVtUG5mTmZia0xEUmpDa2plWF9pQlhmNVZxa0V1UlRiRm5nYUFCc1hnWHNYNVhYRk54bG9ScUZvY2w5bUNyejk2cmtrRXEwazJFbWFGNXUwM1ZiaDZZeEFWONIBqgFBVV95cUxQVDJCX3hDbWFrYmdCZ1Axa1dvLTlFLTNpRko5S0FUSkpMWExZcEF1UER0UFg4QzlHaFRtb2lkaHpORWdrSzM1YzRUOTczSE9IS082aldCUnMyeE1oX1hXUEMtUUpBYkVWZmlDcGRoRENwVDk3VUg0dDd0eDJYYmF3RjMyNThoOWtueEhkN2hIY2pheF9iR2doVU1NaFBZa1ZWZWJLTWlRSmdxUQ?oc=5",
+      "originalUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJaWNjMUhVSmhQY1RjekRRVDRiZUlrZEllb2JMU0hJQVJoVlFFZlZ5X0dmZldMZnk0YWlTbFBMbmRrM3A0WmpqZkp5cmZvYzllcnRoTnBfcjdTSk9kT0JtV1ExRHZxS2Rkbk9CY1NSSG1IZVg4Njlj?oc=5",
       "points": [
-        "报道聚焦“特朗普总统夫妇在白宫设宴款待中国领导人习近平及夫人彭丽媛”，核心信息来自 美国之音 的公开报道。",
-        "从关键词看，这条新闻主要关联 科技、国际、中国 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“习近平主席讲述赛考斯与殷玉珍的友谊故事”，核心信息来自 新华网 的公开报道。",
+        "从关键词看，这条新闻主要关联 国际、中国、新华网 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 科技、国际、中国 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 科技、国际、中国 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 国际、中国、新华网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 国际、中国、新华网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "zhong-guo-zhong-guo",
-      "rank": "05",
-      "title": "中国空间站喜迎建成后第四个中秋节 神舟二十三号航天员乘组遥送家国祝福",
-      "source": "人民网",
-      "badge": "中国",
-      "summary": "中国空间站喜迎建成后第四个中秋节 神舟二十三号航天员乘组遥送家国祝福 人民网 在Google 新闻上查看更多头条新闻和观点",
-      "date": "2026 年 9 月 25 日",
-      "time": "02:02 GMT",
+      "id": "xing-mei-zhong-mei-guo-xing-da",
+      "rank": "08",
+      "title": "视频丨“杜立特行动”美军老兵后代：中美两国元首进行面对面会晤意义重大",
+      "source": "紫牛新闻",
+      "badge": "AI",
+      "summary": "视频丨“杜立特行动”美军老兵后代：中美两国元首进行面对面会晤意义重大 紫牛新闻 一枚便士 一段中美记忆 新浪财经 “杜立特行动”美军老兵后代：中美两国元首进行面对面会晤意义重大 光明网 “杜立特行动大救援”专题展亮相武汉 讲述“血与火铸造的友谊” China Daily “他们已经不在了，但他们的故事还活着”，美国纪录片导演乔治在汉讲述跨国救援 搜狐网",
+      "date": "2026 年 9 月 26 日",
+      "time": "00:08 GMT",
       "tags": [
-        "中国",
-        "人民网"
+        "AI",
+        "国际",
+        "紫牛新闻"
       ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LLUZFRlB5UnRCZU4zT2VIVERmSWRjUzg4amdFbHhhNXJJNl9yd0tLV3RmUU9EMGE5MkZvSGZrVjJ1MXRLdkYwYktfR3ExelNHaGl0Y0U5YkpRVkJIb1BiUm9pTDJTT25GR3VaOE1B?oc=5",
+      "originalUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43U3lsQmhMXzlhank0YnEydU93Tkw1S2RNR3BkRjJkUml5dzZPeEhwZ2lIM2dHSVJGck5mckRDOWtHNGY5Vno4TVF6UXdEcEVfTmlkMjFNWXVPZFNFWEJWV29FakJHRDZG?oc=5",
       "points": [
-        "报道聚焦“中国空间站喜迎建成后第四个中秋节 神舟二十三号航天员乘组遥送家国祝福”，核心信息来自 人民网 的公开报道。",
-        "从关键词看，这条新闻主要关联 中国、人民网 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“视频丨“杜立特行动”美军老兵后代：中美两国元首进行面对面会晤意义重大”，核心信息来自 紫牛新闻 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、国际、紫牛新闻 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 中国、人民网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 中国、人民网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 AI、国际、紫牛新闻 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、国际、紫牛新闻 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "bu",
-      "rank": "06",
-      "title": "哥伦比亚宣布与伊朗断交",
-      "source": "湖南红网",
-      "badge": "湖南红网",
-      "summary": "哥伦比亚宣布与伊朗断交 湖南红网 在Google 新闻上查看更多头条新闻和观点",
-      "date": "2026 年 9 月 25 日",
-      "time": "00:49 GMT",
+      "id": "he-xin-guo-xin-fa-bu-fa",
+      "rank": "09",
+      "title": "深耕融合主线 谱写文旅新篇——国新办发布会聚焦“十五五”时期文化和旅游高质量发展",
+      "source": "荆楚网",
+      "badge": "荆楚网",
+      "summary": "深耕融合主线 谱写文旅新篇——国新办发布会聚焦“十五五”时期文化和旅游高质量发展 荆楚网 在Google 新闻上查看更多头条新闻和观点",
+      "date": "2026 年 9 月 26 日",
+      "time": "01:35 GMT",
       "tags": [
-        "湖南红网"
+        "荆楚网"
       ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44NENsX3U3NGNfLVZSYlRpT3lkekxsUmhXY0RNTklUck9ESlI4bXlxd3pobFB5aTVTSXk4bXNuaGRmOGRRa3dFcHRmWjZqWklwSVNSOEtQMHJNZEMwd2N4RnlvRDA?oc=5",
+      "originalUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5URmlZbXVJb3paY0lzdk5ZVGlsRG1NOUtLWTBpNjBrTjJ2MUVJZnlzTkxmdE9HdWVHYVZSdUNkc29SLVVUTUpwdl9lak5WZzBnSV9pNWVKVncxcnVhdFp3UVRheThHbmUtQW01Uzh5SmUtUQ?oc=5",
       "points": [
-        "报道聚焦“哥伦比亚宣布与伊朗断交”，核心信息来自 湖南红网 的公开报道。",
-        "从关键词看，这条新闻主要关联 湖南红网 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“深耕融合主线 谱写文旅新篇——国新办发布会聚焦“十五五”时期文化和旅游高质量发展”，核心信息来自 荆楚网 的公开报道。",
+        "从关键词看，这条新闻主要关联 荆楚网 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 湖南红网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 湖南红网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 荆楚网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 荆楚网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
       "id": "han",
-      "rank": "07",
-      "title": "韩正会见保加利亚总统约托娃",
-      "source": "新华网",
-      "badge": "国际",
-      "summary": "韩正会见保加利亚总统约托娃。该新闻来自公开 RSS 源，页面会在每日自动更新时重新整理。",
-      "date": "2026 年 9 月 25 日",
-      "time": "02:20 GMT",
-      "tags": [
-        "国际",
-        "新华网"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90OVN6WUdYR3pkUFZOeTZPdVdJdHc1bmhPLW96WU5YWUlaTi1qMHMwdi1OMDB5X3hNbjUxd3BDSW9qa2tuR0ItOEE0T1NBM045cWRyaW1FUXdJbUlKdXJqR1ZsNHI2OHhDa1h5VnpnMXhKX3plTF93?oc=5",
-      "points": [
-        "报道聚焦“韩正会见保加利亚总统约托娃”，核心信息来自 新华网 的公开报道。",
-        "从关键词看，这条新闻主要关联 国际、新华网 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 国际、新华网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 国际、新华网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "2026-zhong-guo-shou-chang-kai",
-      "rank": "08",
-      "title": "稻花香里话丰年，2026年中国农民丰收节江苏省主场活动在常州开幕",
-      "source": "ycnews.cn",
-      "badge": "财经",
-      "summary": "稻花香里话丰年，2026年中国农民丰收节江苏省主场活动在常州开幕 ycnews.cn 2026年中国农民丰收节德阳市庆丰收活动在四川广汉举行 sc.news.cn 大战略牵引新开局｜阅尽金秋色 遇见好“丰”光 新浪财经_金融信息服务商 资阳乐至：勇担使命同奋进 拼搏实干谱新篇 人民网－四川频道 粮满田畴 耕耘未来——礼赞“十五五”开局丰收图景 光明网",
-      "date": "2026 年 9 月 25 日",
-      "time": "01:02 GMT",
-      "tags": [
-        "财经",
-        "中国",
-        "ycnews.cn"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Qd05Jbmd2Y2lVZ0FBeUtRNUhUN3kxOTVFdXhfVEotamctRW9FbXpGQ0p4bjFoOENwX3VIUHZjZTlYYmtwbGs4cUx4OTVZMHhpb3dYaGF3LUNFbEFBVXkyUA?oc=5",
-      "points": [
-        "报道聚焦“稻花香里话丰年，2026年中国农民丰收节江苏省主场活动在常州开幕”，核心信息来自 ycnews.cn 的公开报道。",
-        "从关键词看，这条新闻主要关联 财经、中国、ycnews.cn 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 财经、中国、ycnews.cn 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 财经、中国、ycnews.cn 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "ji-neng-da-quan-qiu",
-      "rank": "09",
-      "title": "世界技能大赛“燃”起来 看全球高手巅峰对决",
-      "source": "中国科技网",
-      "badge": "科技",
-      "summary": "世界技能大赛“燃”起来 看全球高手巅峰对决 中国科技网 透视第48届世界技能大赛 光明网 世赛餐厅服务选手李文涛：把“端茶送水”的技术含量拉满 新浪财经_金融信息服务商 7个新增项目或成未来就业“风向标” 上海世赛赛场连着职场 中国青年网 技能解锁：混凝土建筑 工地上的“精密制造” 央视网",
-      "date": "2026 年 9 月 25 日",
-      "time": "00:00 GMT",
-      "tags": [
-        "科技",
-        "财经",
-        "国际",
-        "中国"
-      ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xUHhhdWpVcS1TYzVPckllSUhBRG1HOHN0Z0lUV3VseGNtLVFSUVFIVzlhZWhEVFJCUHVjQWFSNEE0VUc0cHRrLW1TTlQ0ZU5KanFzdk9YVmw0MzdacE9ROFBYVkV6Tkx6d0N6aXV4YVo?oc=5",
-      "points": [
-        "报道聚焦“世界技能大赛“燃”起来 看全球高手巅峰对决”，核心信息来自 中国科技网 的公开报道。",
-        "从关键词看，这条新闻主要关联 科技、财经、国际 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 科技、财经、国际 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 科技、财经、国际 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "zhong-zhang-fa-418-ren",
       "rank": "10",
-      "title": "中秋节当天迎客流高峰，长三角铁路预计发送旅客418万人次",
-      "source": "紫牛新闻",
-      "badge": "财经",
-      "summary": "中秋节当天迎客流高峰，长三角铁路预计发送旅客418万人次 紫牛新闻 通途畅行，满载“欣悦”赴远方 新浪财经_金融信息服务商 视频丨中秋国庆假期将至 多地加开夜间高铁 光明网 北京铁警双节安保精准护航旅客平安出行 央视网 中秋节当天长三角铁路迎客流高峰，预计发送418万人次同比增116% 凤凰网",
-      "date": "2026 年 9 月 25 日",
-      "time": "02:56 GMT",
+      "title": "韩正会见加纳总统马哈马",
+      "source": "中国共产党新闻网",
+      "badge": "国际",
+      "summary": "韩正会见加纳总统马哈马 中国共产党新闻网",
+      "date": "2026 年 9 月 26 日",
+      "time": "00:27 GMT",
       "tags": [
-        "财经",
+        "国际",
         "中国",
-        "紫牛新闻"
+        "中国共产党新闻网"
       ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CV3NXLWVCek9JelBBenlFcC03VHdvSThOejBUYms2bmNSZlZGWkIxSnBFclRkWFExcUwyMVF6Q2lSSWZaaVBEV1l0eXUzR04wYnVBZzNSRlJZeExkR3ZjTXB5RnRXMm1uY0dfTFBIOA?oc=5",
+      "originalUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EVWY5ZVBIME9tZkJlTHFleThRNDNZS0x1b3c0bldSamM4ZU1yQ2xiMUZVSnlONm1yUHNvN0F4cXhjaFpwUDNDak5JUzhrWjluZk9POTFTX21CX0d0MEJaU2JSTlIzZWVTaHc?oc=5",
       "points": [
-        "报道聚焦“中秋节当天迎客流高峰，长三角铁路预计发送旅客418万人次”，核心信息来自 紫牛新闻 的公开报道。",
-        "从关键词看，这条新闻主要关联 财经、中国、紫牛新闻 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“韩正会见加纳总统马哈马”，核心信息来自 中国共产党新闻网 的公开报道。",
+        "从关键词看，这条新闻主要关联 国际、中国、中国共产党新闻网 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 财经、中国、紫牛新闻 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 财经、中国、紫牛新闻 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 国际、中国、中国共产党新闻网 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 国际、中国、中国共产党新闻网 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     }
   ]
 }
