@@ -27,8 +27,6 @@ DEFAULT_OUTPUT = ROOT / "data" / "news.json"
 USER_AGENT = "DailyNewsUpdater/1.0 (+https://qunqin219.github.io/html/)"
 DEFAULT_FEEDS = [
     "https://news.google.com/rss?hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-    "https://news.google.com/rss/search?q=AI%20OR%20%E7%A7%91%E6%8A%80%20OR%20%E8%B4%A2%E7%BB%8F&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-    "https://news.google.com/rss/search?q=%E4%B8%AD%E5%9B%BD%20AI%20OR%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%20OR%20%E8%8A%AF%E7%89%87&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
 ]
 
 PINYIN = {
@@ -89,17 +87,106 @@ def split_title_source(title: str, fallback_source: str = "RSS") -> tuple[str, s
     return title, fallback_source
 
 
+NOISE_TAIL = re.compile(
+    r"(在Google 新闻上查看更多头条新闻和观点.*$)|(\s*全文\s*$)|(\s*\d+\s*条相关报道\s*$)"
+)
+
+
+def clean_description(value: str) -> str:
+    """Strip Google News RSS boilerplate ('... 在Google 新闻上查看更多头条新闻和观点',
+    trailing anchor URLs, and أa list of related-story titles)."""
+    text = strip_html(value)
+    text = NOISE_TAIL.sub(" ", text)
+    # Google News 会把相关新闻的标题堆进 description；取第一句/第一段即可
+    for sep in ("  ", "\n"):
+        text = text.split(sep)[0].strip()
+    # 去掉拼进来站的裸 URL（如 https://www.tlfw.net/）
+    text = re.sub(r"https?://\S+", "", text).strip(" -–—")
+    return text
+
+
+def score_item(title: str, summary: str, source: str) -> float:
+    """0–100 的相关度/质量分，用于排序选头条。"""
+    text = f"{title} {summary}".lower()
+    score = 0.0
+    important_users = [
+        "openai", "anthropic", "deepseek", "google", "gemini", "qwen", "千问",
+        "智谱", "glm", "kimi", "月之暗面", "meta", "mistral", "grok", "xai",
+        "通义", "claude", "gpt-", "llm", "人工智能", "大模型", "算力", "芯片",
+        "nvidia", "英伟达", "台积电", "数据中心",
+    ]
+    for word in important_users:
+        if word in text:
+            score += 12.0
+    # 一般AI词
+    for word in ("ai", "模型", "智能"):
+        if word in text:
+            score += 3.0
+    # 大厂官方源直接加权
+    trusted = ["openai.com", "research.google", "mistral.ai", "huggingface",
+               "qbitai", "leiphone", "ithome", "solidot", "geekpark",
+               "techcrunch", "arstechnica", "theverge", "wired",
+               "simonwillison", "hnrss"]
+    if any(t in (source or "").lower() for t in trusted):
+        score += 25.0
+    # 标题短（<45 字）加分：更可能是纯资讯而不是整段软文
+    if len(title) < 45:
+        score += 8.0
+    # 政务头条/软文降权（但不禁）
+    spam = ["新闻上查看更多", "弘扬", "综述", "大会并发表重要讲话", "强调"]
+    for word in spam:
+        if word in title + summary:
+            score -= 15.0
+    return max(0.0, min(100.0, score))
+
+
+ATOM_NS = "{http://www.w3.org/2005/Atom}"
+
+
 def parse_rss_items(xml_bytes: bytes) -> list[dict]:
     root = ET.fromstring(xml_bytes)
     items: list[dict] = []
-    for item in root.findall(".//item"):
-        raw_title = item.findtext("title") or ""
+    is_atom = root.tag == ATOM_NS + "feed"
+    entries = (
+        root.findall(f".//{ATOM_NS}entry") if is_atom else root.findall(".//item")
+    )
+    for item in entries:
+        if is_atom:
+            raw_title = item.findtext(f"{ATOM_NS}title") or ""
+            link_el = item.find(f"{ATOM_NS}link")
+            url = (link_el.get("href") if link_el is not None else "") or (
+                item.findtext(f"{ATOM_NS}link") or ""
+            )
+            summary = (
+                item.findtext(f"{ATOM_NS}content")
+                or item.findtext(f"{ATOM_NS}summary")
+                or raw_title
+            )
+            published = parse_date(
+                item.findtext(f"{ATOM_NS}published") or item.findtext(f"{ATOM_NS}updated")
+            )
+        else:
+            raw_title = item.findtext("title") or ""
+            url = item.findtext("link") or item.findtext("guid") or ""
+            summary = (
+                item.findtext("description") or item.findtext("summary") or raw_title
+            )
+            published = parse_date(
+                item.findtext("pubDate")
+                or item.findtext("published")
+                or item.findtext("updated")
+            )
         title, source = split_title_source(raw_title)
-        url = clean_url(item.findtext("link") or item.findtext("guid") or "")
-        summary = strip_html(item.findtext("description") or item.findtext("summary") or title)
-        published = parse_date(item.findtext("pubDate") or item.findtext("published") or item.findtext("updated"))
+        url = clean_url(url)
+        summary = clean_description(summary)
         if title and url:
-            items.append({"title": title, "source": source, "url": url, "summary": summary, "published": published})
+            items.append({
+                "title": title,
+                "source": source,
+                "url": url,
+                "summary": summary,
+                "published": published,
+            })
     return items
 
 
@@ -188,14 +275,21 @@ def make_analysis(item: RawNews, summary: str, tags: list[str], date: datetime) 
 def build_news_json(raw_items: list[dict], now: datetime | None = None, limit: int = 10) -> dict:
     now = now or datetime.now(timezone.utc)
     seen_urls: set[str] = set()
+    seen_titles: set[str] = set()
     used_slugs: set[str] = set()
-    unique: list[RawNews] = []
+    scored: list[tuple[float, RawNews]] = []
     for item in raw_items:
         url = item.get("url") or item.get("originalUrl") or ""
         title = strip_html(item.get("title", ""))
         if not title or not url or url in seen_urls:
             continue
+        # 跨源去重：同一事件被多家转载时只保留一家
+        # 去掉全/半角括号里的转载标记再取前 18 字做指纹
+        title_key = re.sub(r"[（(【\[].*?[）)】\]]", "", re.sub(r"\s+", "", title))[:18]
+        if title_key in seen_titles:
+            continue
         seen_urls.add(url)
+        seen_titles.add(title_key)
         published = item.get("published")
         if isinstance(published, str):
             published = parse_date(published)
@@ -203,13 +297,15 @@ def build_news_json(raw_items: list[dict], now: datetime | None = None, limit: i
             published = now
         if published.tzinfo is None:
             published = published.replace(tzinfo=timezone.utc)
-        unique.append(RawNews(title, item.get("source", "RSS"), url, item.get("summary", ""), published.astimezone(timezone.utc)))
+        source = item.get("source", "RSS")
+        summary = item.get("summary", "")
+        score = score_item(title, summary, source)
+        scored.append((score, RawNews(title, source, url, summary, published.astimezone(timezone.utc))))
 
-    # RSS feeds are normally already ordered by editorial freshness. Preserve
-    # that feed order so the output stays predictable and tests can inject a
-    # deterministic sequence.
+    # 按相关度/质量分排序选头条，而不是按 feed 顺序截断
+    scored.sort(key=lambda x: -x[0])
     output_items = []
-    for index, item in enumerate(unique[:limit], start=1):
+    for index, (score, item) in enumerate(scored[:limit], start=1):
         date = item.published.astimezone(timezone.utc)
         summary = trim_summary(item.summary, item.title)
         tags = infer_tags(item.title, summary, item.source)

@@ -84,6 +84,72 @@ class UpdateNewsTests(unittest.TestCase):
             self.assertIn("中文标题", text)
             self.assertEqual(json.loads(text), data)
 
+    def test_clean_description_strips_google_news_boilerplate(self):
+        text = update_news.clean_description(
+            "这是摘要正文 https://www.example.com/ 在Google 新闻上查看更多头条新闻和观点 相关新闻标题甲 相关新闻标题乙"
+        )
+        self.assertEqual(text, "这是摘要正文")
+        self.assertNotIn("Google", text)
+        self.assertNotIn("https://", text)
+
+    def test_parse_rss_items_supports_atom_feeds(self):
+        xml = """<?xml version="1.0" encoding="utf-8"?>
+        <feed xmlns="http://www.w3.org/2005/Atom">
+          <entry>
+            <title>Anthropic 发布新模型 - Anthropic</title>
+            <link rel="alternate" href="https://example.com/atom-entry?x=1"/>
+            <content>这是 Atom 摘要</content>
+            <updated>2026-10-13T08:00:00Z</updated>
+          </entry>
+        </feed>
+        """.encode("utf-8")
+
+        items = update_news.parse_rss_items(xml)
+
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]["url"], "https://example.com/atom-entry?x=1")
+        self.assertIn("Atom 摘要", items[0]["summary"])
+
+    def test_build_news_json_ranks_ai_news_higher_and_dedupes_by_title(self):
+        raw = [
+            {
+                "title": "弘扬伟大长征精神 走好新时代的长征路 新闻上查看更多",
+                "source": "示例媒体",
+                "url": "https://example.com/politics",
+                "summary": "泛时政头条，页面测试用。",
+                "published": datetime(2026, 4, 28, 8, tzinfo=timezone.utc),
+            },
+            {
+                "title": "DeepSeek 发布新一代模型（转载甲）",
+                "source": "媒体甲",
+                "url": "https://example.com/ai-1",
+                "summary": "DeepSeek 发布新一代 AI 大模型。",
+                "published": datetime(2026, 4, 28, 9, tzinfo=timezone.utc),
+            },
+            {
+                "title": "DeepSeek 发布新一代模型",
+                "source": "媒体乙",
+                "url": "https://example.com/ai-2",
+                "summary": "DeepSeek 发布新一代 AI 大模型。",
+                "published": datetime(2026, 4, 28, 9, tzinfo=timezone.utc),
+            },
+            {
+                "title": "AI 芯片出口新规分析",
+                "source": "openai.com",
+                "url": "https://openai.com/x",
+                "summary": "关于 ai 芯片与算力的政策解读。",
+                "published": datetime(2026, 4, 28, 7, tzinfo=timezone.utc),
+            },
+        ]
+
+        data = update_news.build_news_json(raw, now=datetime(2026, 4, 28, 12, tzinfo=timezone.utc), limit=10)
+
+        # 转载去重：只剩一条 DeepSeek
+        self.assertEqual(len([i for i in data["items"] if "DeepSeek" in i["title"]]), 1)
+        # AI 相关新闻排在头条前面，泛时政的排最后
+        self.assertIn("ai", data["items"][0]["title"].lower())
+        self.assertIn("长征", data["items"][-1]["title"])
+
 
 if __name__ == "__main__":
     unittest.main()
