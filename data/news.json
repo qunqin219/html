@@ -1,9 +1,76 @@
 {
-  "updatedAt": "2026 年 10 月 15 日",
+  "updatedAt": "2026 年 10 月 16 日",
   "items": [
     {
-      "id": "ipo-yi-seed-she-da-mo-xing-an-quan",
+      "id": "5-ji-anthropic-2021",
       "rank": "01",
+      "title": "5 年前的机密文档被泄露：Anthropic 的所有胜利，早在 2021 年就写好了",
+      "source": "RSS",
+      "badge": "AI",
+      "summary": "一张五年前的研发清单，兑现如今 AI 行业大半成果。 作者丨高允毅 编辑丨岑 峰 最近，一场版权官司意外曝光了 Anthropic 一份内部机密文件 《Concise Research Roadmap》 ，这是 Anthropic 五年前的研究路线图。 这个文档由 Anthropic 联创 Jared Kaplan 撰写，只有三四页，却出现了我们今天讨论的C…",
+      "date": "2026 年 10 月 15 日",
+      "time": "23:55 GMT",
+      "tags": [
+        "AI",
+        "RSS"
+      ],
+      "originalUrl": "https://www.leiphone.com/category/yanxishe/gO1lTcRqFyRtbiFP.html",
+      "points": [
+        "报道聚焦“5 年前的机密文档被泄露：Anthropic 的所有胜利，早在 2021 年就写好了”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 AI、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "mei-151-app-ji-gui-zuo-biao-openai-gong-ji",
+      "rank": "02",
+      "title": "微信、淘宝、美团等151款APP拒绝豆包手机助手GUI自动化代操作；对标字节红果，腾讯上线绿泡泡短剧；OpenAI 一工程师被捕，涉嫌窃听机密",
+      "source": "RSS",
+      "badge": "AI",
+      "summary": "要闻提示 1.上演“窃听风云”？OpenAI 一工程师被捕，高管会议室惊现窃听器 2.微信、淘宝、DeepSeek等在列，151款应用拒绝豆包手机助手GUI自动化代操作 3.对标字节红果，腾讯低调上线绿泡泡短剧 4.小鹏正式宣布：开始对外卖技术 5.“红果短剧降智”冲上热搜，医生回应 6.iPhoneDuo完成大模型备案，涉及Apple智能、通义万象、通义千…",
+      "date": "2026 年 10 月 15 日",
+      "time": "10:40 GMT",
+      "tags": [
+        "AI",
+        "科技",
+        "RSS"
+      ],
+      "originalUrl": "https://www.leiphone.com/category/zaobao/VMod1gHtw3lRoiXd.html",
+      "points": [
+        "报道聚焦“微信、淘宝、美团等151款APP拒绝豆包手机助手GUI自动化代操作；对标字节红果，腾讯上线绿泡泡短剧；OpenAI 一工程师被捕，涉嫌窃听机密”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、科技、RSS 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 AI、科技、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、科技、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "da-mo-xing-ai-infra-800",
+      "rank": "03",
+      "title": "大模型「土木系」终翻身：AI Infra 年薪冲到 800 万？",
+      "source": "RSS",
+      "badge": "AI",
+      "summary": "“以前 AI 业内把做 Infra、做工程的叫‘ 计算机里的土木系 ’ ，干着最脏最累的活，拿垫底的钱 。谁能想到他们现在这么值钱？”某大模型独角兽高管刘立向雷峰网感慨道。 他抛出一组薪资行情对比：AI Infra 工程岗以前在大厂，年包基本到不了 300 万；现在，好的 Infra 人有能开到七八百万的。比起算法岗（500~1400 万）还有差距，但已经算…",
+      "date": "2026 年 10 月 15 日",
+      "time": "07:46 GMT",
+      "tags": [
+        "AI",
+        "RSS"
+      ],
+      "originalUrl": "https://www.leiphone.com/category/industrynews/azREeBbKSJ84PQTK.html",
+      "points": [
+        "报道聚焦“大模型「土木系」终翻身：AI Infra 年薪冲到 800 万？”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 AI、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "ipo-yi-seed-she-da-mo-xing-an-quan",
+      "rank": "04",
       "title": "茶百道涉IPO欺诈，被暂停交易；字节Seed单独设立大模型安全与对齐部门；华为披露下一代麒麟芯片进展，已进入测试阶段丨雷峰早报",
       "source": "RSS",
       "badge": "AI",
@@ -27,7 +94,7 @@
     },
     {
       "id": "ri-zhang-125-299-mei-siri-ai-mo-xing-gemini-4",
-      "rank": "02",
+      "rank": "05",
       "title": "超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线",
       "source": "RSS",
       "badge": "AI",
@@ -50,7 +117,7 @@
     },
     {
       "id": "ji-ren-chuang-ye-1000-meta-fa-bu-muse-wonder-mo-xing",
-      "rank": "03",
+      "rank": "06",
       "title": "曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道",
       "source": "RSS",
       "badge": "AI",
@@ -74,7 +141,7 @@
     },
     {
       "id": "11-iphone-guo-200-6-claude",
-      "rank": "04",
+      "rank": "07",
       "title": "尊界：11 月起陆续升级踏板；iPhone 折叠屏国内预约超 200 万；6 个月，超千万 Claude 账户被封杀｜极客早知道",
       "source": "RSS",
       "badge": "AI",
@@ -96,7 +163,7 @@
     },
     {
       "id": "chatgpt-quan-xin-iui-zhi-neng-ai-playground-he-lg-kai-fa-zhi-neng-jian",
-      "rank": "05",
+      "rank": "08",
       "title": "ChatGPT 推出全新 IUI 智能用户界面；谷歌推出试验性 AI 游戏平台 Playground；苹果被曝联合 LG 开发门锁、摄像头等智能家居配件｜极客早知道",
       "source": "RSS",
       "badge": "AI",
@@ -118,7 +185,7 @@
     },
     {
       "id": "1100-mei-shou-gou-xin-500-mei-preipo-zi-ruan-meta-gong-claude",
-      "rank": "06",
+      "rank": "09",
       "title": "派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude",
       "source": "RSS",
       "badge": "国际",
@@ -140,7 +207,7 @@
     },
     {
       "id": "openai-bu-28-codex-work-tiktok-ai-neng-yuan-gong-bu-qiu",
-      "rank": "07",
+      "rank": "10",
       "title": "OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」",
       "source": "RSS",
       "badge": "AI",
@@ -161,75 +228,6 @@
       ],
       "background": "这条新闻发生在 AI、财经、国际 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
       "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、财经、国际 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "ren-gong-zhi-neng-ye-spacexsi-altman-ai-fa-vision-gt-gt7",
-      "rank": "08",
-      "title": "马斯克将旗下人工智能业务更名为 SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜极客早知道",
-      "source": "RSS",
-      "badge": "AI",
-      "summary": "马斯克拟将 SpaceXAI 更名为 SpaceXSI 为「超级智能」概念背书 美国总统特朗普推动以「超级智能」（Super Intelligence，简称 SI）取代「人工智能」（AI）的举措正在迅速影响科技行业。特斯拉和 SpaceX 首席执行官埃隆·马斯克日前表示，旗下人工智能业务品牌 SpaceXAI 有意更名为 SpaceXSI，并公开宣称「Spa…",
-      "date": "2026 年 10 月 5 日",
-      "time": "00:36 GMT",
-      "tags": [
-        "AI",
-        "科技",
-        "国际",
-        "RSS"
-      ],
-      "originalUrl": "http://www.geekpark.net/news/372082",
-      "points": [
-        "报道聚焦“马斯克将旗下人工智能业务更名为 SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜极客早知道”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、科技、国际 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 AI、科技、国际 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、科技、国际 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "llm-gemini-0-35",
-      "rank": "09",
-      "title": "llm-gemini 0.35",
-      "source": "RSS",
-      "badge": "AI",
-      "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription…",
-      "date": "2026 年 10 月 15 日",
-      "time": "04:25 GMT",
-      "tags": [
-        "AI",
-        "RSS"
-      ],
-      "originalUrl": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-      "points": [
-        "报道聚焦“llm-gemini 0.35”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 AI、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "roadster-ri-fa-bu-gong-zuo-gpt-claude",
-      "rank": "10",
-      "title": "腾讯上线「绿泡泡」短剧，主打免费好看；特斯拉 Roadster 跑车明日发布；豆包工作支持一键导入 GPT、Claude 对话",
-      "source": "极客早知道",
-      "badge": "AI",
-      "summary": "155 款应用拒绝豆包助手 AI 自动化操作 10 月 14 日，豆包手机助手《屏幕自动化操作声明协议》（SAEP）30 天公示期结束，官方公布名单显示，已有 155 款第三方应用拒绝 AI 自动化操作，腾讯、阿里、美团、快手旗下多款产品，连同 Kimi、DeepSeek 等 AI 产品均在名单内，堪称互联网头部厂商的集体表态。 SAEP 协议核心是将 AI…",
-      "date": "2026 年 10 月 15 日",
-      "time": "00:29 GMT",
-      "tags": [
-        "AI",
-        "科技",
-        "极客早知道"
-      ],
-      "originalUrl": "http://www.geekpark.net/news/372366",
-      "points": [
-        "报道聚焦“腾讯上线「绿泡泡」短剧，主打免费好看；特斯拉 Roadster 跑车明日发布；豆包工作支持一键导入 GPT、Claude 对话”，核心信息来自 极客早知道 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、科技、极客早知道 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 AI、科技、极客早知道 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、科技、极客早知道 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     }
   ]
 }
