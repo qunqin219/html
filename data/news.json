@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026 年 10 月 17 日",
+  "updatedAt": "2026 年 10 月 18 日",
   "items": [
     {
       "id": "zhang-ke-ji-shi-1-ai-ying-jian-guo-xing-ai-12-he-zuo",
@@ -138,8 +138,31 @@
       "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、科技、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "ri-zhang-125-299-mei-siri-ai-mo-xing-gemini-4",
+      "id": "deepseek-1-token-zhi-neng-fa-spacex-he",
       "rank": "07",
+      "title": "DeepSeek 出现服务故障，官方补偿 1 周 Token 消耗；库克：苹果智能月底在华发测试版；特斯拉、SpaceX 最快年底合并｜极客早知道",
+      "source": "RSS",
+      "badge": "AI",
+      "summary": "DeepSeek 服务故障近 5 小时，官方补偿所有 API 用户 7 天内的消耗金额 10 月 15 日消息，DeepSeek 网页 / API 服务今日（10 月 15 日）早间出现服务问题，经过近 5 个小时的修复，终于恢复正常。 对此，DeepSeek 官方开放平台发布服务恢复及补偿通知，将补偿所有 API 用户 7 天内的消耗金额： 北京时间 20…",
+      "date": "2026 年 10 月 16 日",
+      "time": "00:15 GMT",
+      "tags": [
+        "AI",
+        "中国",
+        "RSS"
+      ],
+      "originalUrl": "http://www.geekpark.net/news/372430",
+      "points": [
+        "报道聚焦“DeepSeek 出现服务故障，官方补偿 1 周 Token 消耗；库克：苹果智能月底在华发测试版；特斯拉、SpaceX 最快年底合并｜极客早知道”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、中国、RSS 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 AI、中国、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、中国、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "ri-zhang-125-299-mei-siri-ai-mo-xing-gemini-4",
+      "rank": "08",
       "title": "超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线",
       "source": "RSS",
       "badge": "AI",
@@ -162,7 +185,7 @@
     },
     {
       "id": "ji-ren-chuang-ye-1000-meta-fa-bu-muse-wonder-mo-xing",
-      "rank": "08",
+      "rank": "09",
       "title": "曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道",
       "source": "RSS",
       "badge": "AI",
@@ -186,7 +209,7 @@
     },
     {
       "id": "11-iphone-guo-200-6-claude",
-      "rank": "09",
+      "rank": "10",
       "title": "尊界：11 月起陆续升级踏板；iPhone 折叠屏国内预约超 200 万；6 个月，超千万 Claude 账户被封杀｜极客早知道",
       "source": "RSS",
       "badge": "AI",
@@ -200,28 +223,6 @@
       "originalUrl": "http://www.geekpark.net/news/372218",
       "points": [
         "报道聚焦“尊界：11 月起陆续升级踏板；iPhone 折叠屏国内预约超 200 万；6 个月，超千万 Claude 账户被封杀｜极客早知道”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 AI、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "llm-gemini-0-35",
-      "rank": "10",
-      "title": "llm-gemini 0.35",
-      "source": "RSS",
-      "badge": "AI",
-      "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription…",
-      "date": "2026 年 10 月 17 日",
-      "time": "04:12 GMT",
-      "tags": [
-        "AI",
-        "RSS"
-      ],
-      "originalUrl": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-      "points": [
-        "报道聚焦“llm-gemini 0.35”，核心信息来自 RSS 的公开报道。",
         "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
