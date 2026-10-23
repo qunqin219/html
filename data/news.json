@@ -1,52 +1,49 @@
 {
-  "updatedAt": "2026 年 10 月 22 日",
+  "updatedAt": "2026 年 10 月 23 日",
   "items": [
     {
-      "id": "zhi-neng-token-jing-he-mo-xing",
+      "id": "chang-anthropic-ren-ai-claude-duet",
       "rank": "01",
-      "title": "一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？",
+      "title": "被迫下场，Anthropic 推出个人 AI 助理 Claude Duet",
       "source": "RSS",
       "badge": "AI",
-      "summary": "质检线上，一台人形机器人从料框里取出平板，送进检测柜；完成检测后，再将成品分流。抓取入柜、多项目质检、成品分拣，机器人与工人同线作 业，一气呵 成 。 一次看似简单的抓取，背后串联起感知、判断与执行。在智元2026年9月公开的具身模型中，一帧画面可编码为24个视觉词元（Token）；相关实验还展示了模型生成连续动作的低延迟能力。但若要算清抓取的成本，不能只数…",
-      "date": "2026 年 10 月 21 日",
-      "time": "06:29 GMT",
+      "summary": "作者｜桦林舞王 编辑｜靖宇 用过各种 AI 助手的人大概都有过同一种疲劳：你不开口，它就装死；你一旦开口，它又把所有选择抛回给你。 过去两个多月，硅谷巨头们几乎排着队想打破这种被动状态。8 月 xAI 推出能多智能体分工的 Grok Bot，9 月 Meta 带着能在 WhatsApp 里帮人砍账单的 Muse 席卷千万用户，紧接着 OpenAI 在开发者大…",
+      "date": "2026 年 10 月 22 日",
+      "time": "07:23 GMT",
       "tags": [
         "AI",
-        "财经",
         "RSS"
       ],
-      "originalUrl": "https://www.leiphone.com/category/industrynews/me3CuOBHyOqL14Pd.html",
+      "originalUrl": "http://www.geekpark.net/news/372740",
       "points": [
-        "报道聚焦“一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、财经、RSS 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“被迫下场，Anthropic 推出个人 AI 助理 Claude Duet”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 AI、财经、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、财经、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 AI、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "da-quan-qiu-da-gong-2030-fa-mei-guo-fa-bu-deepseek-quan-mei-spacex-gu",
+      "id": "ruan-gong-shu-agent-gou-spacex-he-cai",
       "rank": "02",
-      "title": "停止加薪！大众计划冻结全球大量员工薪酬至2030年；突发！美国发布DeepSeek禁令；马斯克：明年向全美儿童赠送SpaceX股票",
+      "title": "微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨",
       "source": "RSS",
       "badge": "AI",
-      "summary": "要闻提示 1.停止加薪！大众计划冻结员工薪酬至2030年，涉及全球大量员工 2.突发！美国发布DeepSeek禁令 3.花钱之前先问网友意见！「钱包请等等」突然爆火：主打「劝你别买」 4.豆包辟谣超一半算力在造爽剧：不靠谱，只有10% 5.特斯拉喊话：没有「速成车」 6.“山姆品质暴跌你还敢去吗”热搜第一，山姆回应：热搜视频系AI造假 7.字节Seed模型评…",
-      "date": "2026 年 10 月 20 日",
-      "time": "10:39 GMT",
+      "summary": "24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI 10 月 22 日消息，Anthropic 昨日（10 月 21 日）宣布以研究预览版形式，推出全新应用 Claude Duet，定位为可主动工作的 AI 智能体（agent），加入由 Meta 的 Muse、以及 OpenAI 的 Do…",
+      "date": "2026 年 10 月 22 日",
+      "time": "00:48 GMT",
       "tags": [
         "AI",
-        "财经",
-        "国际",
         "RSS"
       ],
-      "originalUrl": "https://www.leiphone.com/category/zaobao/Y7039p8HsmmeQClm.html",
+      "originalUrl": "http://www.geekpark.net/news/372711",
       "points": [
-        "报道聚焦“停止加薪！大众计划冻结全球大量员工薪酬至2030年；突发！美国发布DeepSeek禁令；马斯克：明年向全美儿童赠送SpaceX股票”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、财经、国际 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 AI、财经、国际 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、财经、国际 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 AI、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
       "id": "quan-qiu-40-muse-1000-chatgpt-gong",
@@ -208,27 +205,26 @@
       "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、中国、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "ri-zhang-125-299-mei-siri-ai-mo-xing-gemini-4",
+      "id": "llm-gemini-0-35",
       "rank": "10",
-      "title": "超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线",
+      "title": "llm-gemini 0.35",
       "source": "RSS",
       "badge": "AI",
-      "summary": "谷歌最强 AI 模型：Gemini 4 Argon 上线，输出词元上限 100 万个、专攻最棘手难题 10 月 14 日消息， Gemini 4 Argon 现已面向全球开发者和企业开放，可通过 AI Studio、 Gemini 平台 API 使用，同时支持 Google Antigravity 的 Google AI Ultra 订阅用户，以及 Gemi…",
-      "date": "2026 年 10 月 14 日",
-      "time": "00:28 GMT",
+      "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription…",
+      "date": "2026 年 10 月 23 日",
+      "time": "04:35 GMT",
       "tags": [
         "AI",
-        "国际",
         "RSS"
       ],
-      "originalUrl": "http://www.geekpark.net/news/372304",
+      "originalUrl": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
       "points": [
-        "报道聚焦“超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、国际、RSS 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“llm-gemini 0.35”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 AI、国际、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、国际、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 AI、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     }
   ]
 }
