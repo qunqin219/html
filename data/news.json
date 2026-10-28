@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026 年 10 月 27 日",
+  "updatedAt": "2026 年 10 月 28 日",
   "items": [
     {
       "id": "iphone-ti-ji-anthropic-shi",
@@ -182,21 +182,21 @@
       "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、科技、国际 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "deepseek-xin-mo-xing-kai-yuan-mo-xing-guo-55-fa-ren-fa-gong",
+      "id": "llm-gemini-0-35",
       "rank": "09",
-      "title": "DeepSeek 新模型登顶开源模型榜首；国内 55% 算力用于视频和短剧？豆包发言人辟谣；微信发起公众号小说改编微短剧激励｜极客早知道",
+      "title": "llm-gemini 0.35",
       "source": "RSS",
       "badge": "AI",
-      "summary": "DeepSeek 新模型登顶 Code Arena WebDev 开源模型榜首 10 月 19 日，AI 模型评测平台 Arena 宣布，DeepSeek-V4.1-Flash-1017（Max）超过 Kimi K3（Max），成为 Code Arena: WebDev 榜单排名最高的开源模型。 截至目前，DeepSeek-V4.1-Flash-1017 在…",
-      "date": "2026 年 10 月 20 日",
-      "time": "01:01 GMT",
+      "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription…",
+      "date": "2026 年 10 月 28 日",
+      "time": "05:26 GMT",
       "tags": [
         "AI",
         "RSS"
       ],
-      "originalUrl": "http://www.geekpark.net/news/372568",
+      "originalUrl": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
       "points": [
-        "报道聚焦“DeepSeek 新模型登顶开源模型榜首；国内 55% 算力用于视频和短剧？豆包发言人辟谣；微信发起公众号小说改编微短剧激励｜极客早知道”，核心信息来自 RSS 的公开报道。",
+        "报道聚焦“llm-gemini 0.35”，核心信息来自 RSS 的公开报道。",
         "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
@@ -204,26 +204,27 @@
       "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "openai-mo-xing-deepseek-kai-fang-api-zhi-zi-gong-si-shi",
+      "id": "openai-tpu-mo-xing-gong",
       "rank": "10",
-      "title": "OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道",
+      "title": "消息称 OpenAI 计划正式导入谷歌 TPU：已在招募领导模型适配优化的工程师",
       "source": "RSS",
       "badge": "AI",
-      "summary": "OpenAI 三个神秘模型曝光 10 月 18 日，有开发者发现，OpenAI 的 API 模型列表中突然出现了三个陌生名字： aurora-red-alpha、aurora-green-alpha、aurora-blue-alpha。三个模型都以 Aurora（极光）命名，分别对应红、绿、蓝三种颜色。但相关条目很快便从模型列表中消失。 此次发现来自第三方维…",
-      "date": "2026 年 10 月 19 日",
-      "time": "01:18 GMT",
+      "summary": "IT之家 10 月 28 日消息，外媒 The Information 当地时间昨日报道称， OpenAI 计划正式导入谷歌 Google Cloud 的 TPU AI ASIC 芯片 。 招聘启事显示，OpenAI 正在寻找领导该企业模型在 TPU 上适配优化工作的工程师。知情人士则称，OpenAI 计划采购谷歌 TPU 芯片。 谷歌 TPU 在 Open…",
+      "date": "2026 年 10 月 28 日",
+      "time": "01:59 GMT",
       "tags": [
         "AI",
+        "科技",
         "RSS"
       ],
-      "originalUrl": "http://www.geekpark.net/news/372514",
+      "originalUrl": "https://www.ithome.com/1/018/754.htm",
       "points": [
-        "报道聚焦“OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“消息称 OpenAI 计划正式导入谷歌 TPU：已在招募领导模型适配优化的工程师”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、科技、RSS 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 AI、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 AI、科技、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、科技、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     }
   ]
 }
