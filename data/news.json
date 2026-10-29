@@ -1,9 +1,81 @@
 {
-  "updatedAt": "2026 年 10 月 28 日",
+  "updatedAt": "2026 年 10 月 29 日",
   "items": [
     {
-      "id": "iphone-ti-ji-anthropic-shi",
+      "id": "ai",
       "rank": "01",
+      "title": "华为群英传之刘睿：AI助手要告别聊天框，从“被动响应”走向“主动服务”",
+      "source": "RSS",
+      "badge": "AI",
+      "summary": "在商汤没做成的技术，登上了华为发布会。 作者：李秋悦 编辑：吴彤 2022年6月，刘睿港中文博士毕业，赶上的却是一个“坏时候”。 深度学习的高光已持续近十年，新突破越来越难；疫情之下，经济低迷，同届不少同学选择延期，再守一年实验室。 刘睿没有等，他直接去了商汤。 两个月后，Stable Diffusion发布；又过了三个月，ChatGPT引爆全球。刘睿毕业时…",
+      "date": "2026 年 10 月 28 日",
+      "time": "08:43 GMT",
+      "tags": [
+        "AI",
+        "财经",
+        "国际",
+        "RSS"
+      ],
+      "originalUrl": "https://www.leiphone.com/category/ai/Ep3M1c7RboyafpOS.html",
+      "points": [
+        "报道聚焦“华为群英传之刘睿：AI助手要告别聊天框，从“被动响应”走向“主动服务””，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、财经、国际 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 AI、财经、国际 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、财经、国际 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "ruan-6-gong-fa-n-2-2800-zhang-iphone-duo-chan-neng-fang",
+      "rank": "02",
+      "title": "微软向6万员工发出自愿离职邀请，补偿至少N+2；身家2800亿的梁文锋，被曝长期在北京租房；苹果否认iPhone Duo为赶产能放宽质检",
+      "source": "RSS",
+      "badge": "AI",
+      "summary": "要闻提示 1.加码AI精简人力！微软向 6 万员工发出自愿离职邀请，补偿至少N+2 2.DeepSeek大举扩充团队！梁文锋2800亿首登富豪榜前十，被曝长期在北京租房 3.iPhone Duo被曝为赶产能放宽质检！苹果客服否认 4.抖音回应中国互联网进入字节时间：极不严谨，纯属瞎扯 5.破案了！腾讯企鹅岛楼上外挂的神秘黄色物体，真面目终于曝光 6.阿里巴巴…",
+      "date": "2026 年 10 月 28 日",
+      "time": "01:11 GMT",
+      "tags": [
+        "AI",
+        "科技",
+        "中国",
+        "RSS"
+      ],
+      "originalUrl": "https://www.leiphone.com/category/zaobao/SXb4aJpFWlpTjfkN.html",
+      "points": [
+        "报道聚焦“微软向6万员工发出自愿离职邀请，补偿至少N+2；身家2800亿的梁文锋，被曝长期在北京租房；苹果否认iPhone Duo为赶产能放宽质检”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、科技、中国 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 AI、科技、中国 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、科技、中国 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "zhang-guo-anthropic-gong-kai-shi-11-zhong-shi-ren",
+      "rank": "03",
+      "title": "长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求；Anthropic公开上市申请，最快11月中旬上市；周畅被曝离职？接近字节人士回应",
+      "source": "RSS",
+      "badge": "AI",
+      "summary": "要闻提示 1.长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求 2.Seedance 核心研发负责人周畅被曝离职？接近字节人士否认 3.李楠谈iPhone Duo屏幕开裂问题：本质是苹果和供应链生疏了 4.道歉也翻车？小鹏经理Etta道歉视频疑似用AI生成 5.奥迪中国四环标和字母标正式分家 6.会员使用K3.1 Pro时出现限流及不必要的额度消耗，Kimi…",
+      "date": "2026 年 10 月 27 日",
+      "time": "09:34 GMT",
+      "tags": [
+        "AI",
+        "科技",
+        "中国",
+        "RSS"
+      ],
+      "originalUrl": "https://www.leiphone.com/category/zaobao/9LHYVcJC8iwgwnhk.html",
+      "points": [
+        "报道聚焦“长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求；Anthropic公开上市申请，最快11月中旬上市；周畅被曝离职？接近字节人士回应”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、科技、中国 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 AI、科技、中国 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、科技、中国 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "iphone-ti-ji-anthropic-shi",
+      "rank": "04",
       "title": "苹果回应 iPhone 折叠屏问题：可申请换机；传腾讯绿泡泡短剧月活过亿；；Anthropic或下月上市｜极客早知道",
       "source": "RSS",
       "badge": "AI",
@@ -27,7 +99,7 @@
     },
     {
       "id": "kimi-fa-bu-k3-1-pro-opus-5-5",
-      "rank": "02",
+      "rank": "05",
       "title": "Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5",
       "source": "RSS",
       "badge": "RSS",
@@ -48,7 +120,7 @@
     },
     {
       "id": "zhong-tou-guo-bu-6-ai-tou-zi-jian-da-kai-ji",
-      "rank": "03",
+      "rank": "06",
       "title": "苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机",
       "source": "RSS",
       "badge": "AI",
@@ -71,7 +143,7 @@
     },
     {
       "id": "iphone-duo-kimi-k3-1-pro-seedance-2-5-4k-fa-bu",
-      "rank": "04",
+      "rank": "07",
       "title": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道",
       "source": "RSS",
       "badge": "RSS",
@@ -92,7 +164,7 @@
     },
     {
       "id": "deepseek-ju-1000-xin-zi-da-43-iphone-duo",
-      "rank": "05",
+      "rank": "08",
       "title": "DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配 iPhone Duo",
       "source": "极客早知道",
       "badge": "AI",
@@ -115,7 +187,7 @@
     },
     {
       "id": "chang-anthropic-ren-ai-claude-duet",
-      "rank": "06",
+      "rank": "09",
       "title": "被迫下场，Anthropic 推出个人 AI 助理 Claude Duet",
       "source": "RSS",
       "badge": "AI",
@@ -137,7 +209,7 @@
     },
     {
       "id": "ruan-gong-shu-agent-gou-spacex-he-cai",
-      "rank": "07",
+      "rank": "10",
       "title": "微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨",
       "source": "RSS",
       "badge": "AI",
@@ -156,75 +228,6 @@
       ],
       "background": "这条新闻发生在 AI、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
       "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "quan-qiu-40-muse-1000-chatgpt-gong",
-      "rank": "08",
-      "title": "曝高通启动全球裁员；上线 40 天，Muse 下载量突破 1000 万次；ChatGPT 上线幻灯片工具",
-      "source": "RSS",
-      "badge": "AI",
-      "summary": "DeepSeek 开源大规模云服务推理框架 10 月 20 日下午，DeepSeek 宣布，在此前开源一系列大模型、TileLang 编译工具及推理算子库的基础上，决定进一步将内部推理框架 DeepInfer 全面开源。 DeepSeek 称，基于 DeepInfer，已实现 DeepSeek V4.1 Flash 高吞吐、低延迟的大规模推理服务。未来，De…",
-      "date": "2026 年 10 月 21 日",
-      "time": "00:37 GMT",
-      "tags": [
-        "AI",
-        "科技",
-        "国际",
-        "RSS"
-      ],
-      "originalUrl": "http://www.geekpark.net/news/372650",
-      "points": [
-        "报道聚焦“曝高通启动全球裁员；上线 40 天，Muse 下载量突破 1000 万次；ChatGPT 上线幻灯片工具”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、科技、国际 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 AI、科技、国际 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、科技、国际 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "llm-gemini-0-35",
-      "rank": "09",
-      "title": "llm-gemini 0.35",
-      "source": "RSS",
-      "badge": "AI",
-      "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription…",
-      "date": "2026 年 10 月 28 日",
-      "time": "05:26 GMT",
-      "tags": [
-        "AI",
-        "RSS"
-      ],
-      "originalUrl": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-      "points": [
-        "报道聚焦“llm-gemini 0.35”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 AI、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "openai-tpu-mo-xing-gong",
-      "rank": "10",
-      "title": "消息称 OpenAI 计划正式导入谷歌 TPU：已在招募领导模型适配优化的工程师",
-      "source": "RSS",
-      "badge": "AI",
-      "summary": "IT之家 10 月 28 日消息，外媒 The Information 当地时间昨日报道称， OpenAI 计划正式导入谷歌 Google Cloud 的 TPU AI ASIC 芯片 。 招聘启事显示，OpenAI 正在寻找领导该企业模型在 TPU 上适配优化工作的工程师。知情人士则称，OpenAI 计划采购谷歌 TPU 芯片。 谷歌 TPU 在 Open…",
-      "date": "2026 年 10 月 28 日",
-      "time": "01:59 GMT",
-      "tags": [
-        "AI",
-        "科技",
-        "RSS"
-      ],
-      "originalUrl": "https://www.ithome.com/1/018/754.htm",
-      "points": [
-        "报道聚焦“消息称 OpenAI 计划正式导入谷歌 TPU：已在招募领导模型适配优化的工程师”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、科技、RSS 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 AI、科技、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、科技、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     }
   ]
 }
