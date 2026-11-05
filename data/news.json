@@ -1,108 +1,114 @@
 {
-  "updatedAt": "2026 年 11 月 4 日",
+  "updatedAt": "2026 年 11 月 5 日",
   "items": [
     {
-      "id": "introducing-kimi-k3-1-pro",
+      "id": "gong-si-gong-si-an-wen-ke-ji-134-zhong-ji-fa-bu-hy4",
       "rank": "01",
-      "title": "Introducing Kimi K3.1 Pro",
+      "title": "子公司把母公司告了！安世半导体起诉闻泰科技，索赔134亿元；中兴手机账号主体变更，将调整为上海申启纪元；腾讯混元正式发布Hy4",
       "source": "RSS",
-      "badge": "RSS",
-      "summary": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're…",
-      "date": "2026 年 11 月 4 日",
-      "time": "06:03 GMT",
+      "badge": "科技",
+      "summary": "要闻提示 1.子公司把母公司告了！安世半导体索赔134亿元，闻泰科技强硬回击 2.中兴手机账号主体变更，将调整为上海申启纪元 3.腾讯混元发布最新一代大语言模型Hy4，跻身最强开源模型队列 4.iPhone系统天气Bug显示下周五-32℃，苹果客服致歉：系统端口问题 5.京东本地生活业务负责人郭庆离职 6.蔚来李斌：自动驾驶不应让出租车和网约车司机失去工作…",
+      "date": "2026 年 11 月 5 日",
+      "time": "02:07 GMT",
       "tags": [
+        "科技",
+        "中国",
         "RSS"
       ],
-      "originalUrl": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+      "originalUrl": "https://www.leiphone.com/category/zaobao/uojoiQ2Owilfvr8B.html",
       "points": [
-        "报道聚焦“Introducing Kimi K3.1 Pro”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 RSS 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“子公司把母公司告了！安世半导体起诉闻泰科技，索赔134亿元；中兴手机账号主体变更，将调整为上海申启纪元；腾讯混元正式发布Hy4”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 科技、中国、RSS 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 科技、中国、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 科技、中国、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "llm-0-37",
+      "id": "shi-gemini-4-carbon-chang",
       "rank": "02",
-      "title": "llm 0.37",
+      "title": "榜单第一，市值暴跌！Gemini 4 Carbon「速成」背后，谷歌一场豪赌",
       "source": "RSS",
-      "badge": "RSS",
-      "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.…",
+      "badge": "国际",
+      "summary": "Gemini 4 Carbon 登顶，幻觉率抬升，谷歌疯狂发模型在急什么？ 作者丨 高允毅 编辑丨岑 峰 昨天，Google 发布世界模型 Genie 4，人们惊呼“太疯狂了”。今早，Google 又紧接着推出 Gemini 4 Carbon，直接刷榜\"重回全球第一\"。再加上两周前发布的 Gemini 4 Argon，谷歌正以近乎 “一周一款” 的节奏刷新模…",
       "date": "2026 年 11 月 4 日",
-      "time": "06:03 GMT",
+      "time": "06:39 GMT",
       "tags": [
+        "国际",
         "RSS"
       ],
-      "originalUrl": "https://simonwillison.net/2026/Nov/2/llm/",
+      "originalUrl": "https://www.leiphone.com/category/yanxishe/7uvYEZBsCWcPvhw3.html",
       "points": [
-        "报道聚焦“llm 0.37”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 RSS 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“榜单第一，市值暴跌！Gemini 4 Carbon「速成」背后，谷歌一场豪赌”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 国际、RSS 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 国际、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 国际、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "gpt-6-1-terra",
+      "id": "apple-zhi-neng-guo-xing-da-6-mei-gu-shi-zhang-zhong-guo-neng-1-gong-ren-",
       "rank": "03",
-      "title": "GPT-6.1 Terra",
+      "title": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道",
       "source": "RSS",
       "badge": "AI",
-      "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoni…",
-      "date": "2026 年 11 月 4 日",
-      "time": "06:03 GMT",
-      "tags": [
-        "AI",
-        "RSS"
-      ],
-      "originalUrl": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-      "points": [
-        "报道聚焦“GPT-6.1 Terra”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 AI、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "etf-zhong-zi-guo-chan-da-mo-xing-ai-ke-chuang-ren-gong-zhi-neng-etf-5895",
-      "rank": "04",
-      "title": "ETF盘中资讯|重磅！苹果接入国产大模型——阿里通义千问！端侧AI受提振，科创人工智能ETF华宝（589520）资金关注度高！-E点即通",
-      "source": "金融界",
-      "badge": "AI",
-      "summary": "ETF盘中资讯|重磅！苹果接入国产大模型——阿里通义千问！端侧AI受提振，科创人工智能ETF华宝（589520）资金关注度高！-E点即通 金融界",
-      "date": "2026 年 11 月 4 日",
-      "time": "02:48 GMT",
+      "summary": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一 11 月 4 日，Apple 智能伴随 iOS 27.3 的 Developer Beta 向中国大陆用户开放测试，并计划于 12 月随 iOS 27.3 正式版推出。与此同时，苹果也确认与阿里巴巴达成合作，将千问接入 Siri、写作工具及视觉智能，让中国用户能够通过系统直接调用国内大模型的能力。…",
+      "date": "2026 年 11 月 5 日",
+      "time": "00:45 GMT",
       "tags": [
         "AI",
         "财经",
-        "金融界"
+        "中国",
+        "RSS"
       ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9reFBQQ0FoTjFDbEExNXdlS25aLTI0T2RWS2hMUXRyWVNxb1hUOVc1SnAxRl8tYS1FdVBvWjFIV2kzMmk4WjBPX0VZSmJlODBHbldhYnB6TjRtREo0RUR3eHQxUkZFZDBjVVYxOG5RTXk?oc=5",
+      "originalUrl": "http://www.geekpark.net/news/373494",
       "points": [
-        "报道聚焦“ETF盘中资讯|重磅！苹果接入国产大模型——阿里通义千问！端侧AI受提振，科创人工智能ETF华宝（589520）资金关注度高！-E点即通”，核心信息来自 金融界 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、财经、金融界 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、财经、中国 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 AI、财经、金融界 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、财经、金融界 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 AI、财经、中国 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、财经、中国 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "the-october-inflection-point-for-vibe-game-development",
+      "id": "grok-bot-altman-ren-quan-400-fen",
+      "rank": "04",
+      "title": "马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份",
+      "source": "RSS",
+      "badge": "科技",
+      "summary": "Anthropic 更新 IPO 招股书：第三季度营收近 170 亿美元，算力承诺达 8954 亿美元 11 月 2 日，Anthropic 向美国证券交易委员会提交更新后的 S-1 招股文件，首次补充截至今年 9 月底的第三季度财务数据。 Anthropic 第三季度营收达到 169.6 亿美元，较第二季度增长 47%，但增速低于第二季度的 144%。公司…",
+      "date": "2026 年 11 月 3 日",
+      "time": "00:40 GMT",
+      "tags": [
+        "科技",
+        "财经",
+        "国际",
+        "RSS"
+      ],
+      "originalUrl": "http://www.geekpark.net/news/373358",
+      "points": [
+        "报道聚焦“马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 科技、财经、国际 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 科技、财经、国际 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 科技、财经、国际 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "deepseek-gong-bu-super-agent-shi-meta-muse-ji-ren",
       "rank": "05",
-      "title": "The October inflection point for vibe game development",
+      "title": "DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人",
       "source": "RSS",
       "badge": "RSS",
-      "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective cod…",
-      "date": "2026 年 11 月 4 日",
-      "time": "06:03 GMT",
+      "summary": "​DeepSeek 发布全新 Agent 架构 10 月 31 日晚间，DeepSeek Harness 团队在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。 DeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任…",
+      "date": "2026 年 11 月 1 日",
+      "time": "00:29 GMT",
       "tags": [
         "RSS"
       ],
-      "originalUrl": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "originalUrl": "http://www.geekpark.net/news/373243",
       "points": [
-        "报道聚焦“The October inflection point for vibe game development”，核心信息来自 RSS 的公开报道。",
+        "报道聚焦“DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人”，核心信息来自 RSS 的公开报道。",
         "从关键词看，这条新闻主要关联 RSS 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
@@ -110,117 +116,116 @@
       "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "donating-agent-skills-to-the-agentic-ai-foundation",
+      "id": "apple-zhi-neng-deepseek-1055-zi-6155-gu-kai-30",
       "rank": "06",
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "title": "苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道",
       "source": "RSS",
       "badge": "AI",
-      "summary": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are dona…",
-      "date": "2026 年 11 月 4 日",
-      "time": "06:03 GMT",
+      "summary": "国行 Apple 智能确定上线时间：11 月开放测试，千问接入 Siri 10 月 31 日，苹果宣布，国行 Apple 智能首批功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月随 iOS 27.3 正式面向用户推出。首批功能包括实时翻译、写作工具、照片消除、智绘表情和通知摘要等，支持 iPhone 15 Pro 系列、iPhon…",
+      "date": "2026 年 10 月 31 日",
+      "time": "00:03 GMT",
       "tags": [
         "AI",
+        "财经",
         "RSS"
       ],
-      "originalUrl": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "originalUrl": "http://www.geekpark.net/news/373220",
       "points": [
-        "报道聚焦“Donating Agent Skills to the Agentic AI Foundation”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、财经、RSS 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 AI、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 AI、财经、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、财经、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "semianalysis-openai-anthropic-quan-qiu-xin-zeng",
+      "id": "iphone-ti-ji-anthropic-shi",
       "rank": "07",
-      "title": "SemiAnalysis拆解算力荒：OpenAI与Anthropic正在抢光全球新增算力",
-      "source": "华尔街见闻",
+      "title": "苹果回应 iPhone 折叠屏问题：可申请换机；传腾讯绿泡泡短剧月活过亿；；Anthropic或下月上市｜极客早知道",
+      "source": "RSS",
       "badge": "AI",
-      "summary": "SemiAnalysis拆解算力荒：OpenAI与Anthropic正在抢光全球新增算力 华尔街见闻",
-      "date": "2026 年 11 月 4 日",
-      "time": "04:26 GMT",
+      "summary": "Anthropic 公开递交纳斯达克 IPO 申请：目标 11 月 16 日当周上市 Anthropic 正式踏上上市之路。这家成立仅五年、身处生成式 AI 浪潮核心的企业，本次 IPO 有望创下历史纪录。 Anthropic 在提交给美国证券交易委员会（SEC）的文件中披露，计划登陆纳斯达克交易所，股票代码定为「ANT」，目标在 11 月 16 日当周进行…",
+      "date": "2026 年 10 月 27 日",
+      "time": "00:26 GMT",
       "tags": [
         "AI",
+        "财经",
         "国际",
-        "华尔街见闻"
+        "RSS"
       ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2OU5MRkx3c2xCLWg1WVRNMnhIZW5CTWQ4aDJhTWFjd1c1VkZhbU9uRmROczlHMlZ6YW45VXlFLWxHUEtTSjVmTFBCRzF1N2xiNTVJ?oc=5",
+      "originalUrl": "http://www.geekpark.net/news/372952",
       "points": [
-        "报道聚焦“SemiAnalysis拆解算力荒：OpenAI与Anthropic正在抢光全球新增算力”，核心信息来自 华尔街见闻 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、国际、华尔街见闻 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“苹果回应 iPhone 折叠屏问题：可申请换机；传腾讯绿泡泡短剧月活过亿；；Anthropic或下月上市｜极客早知道”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、财经、国际 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 AI、国际、华尔街见闻 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、国际、华尔街见闻 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 AI、财经、国际 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、财经、国际 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "ren-gong-zhi-neng-deepseek-minimax",
+      "id": "kimi-fa-bu-k3-1-pro-opus-5-5",
       "rank": "08",
-      "title": "“人工智能乌镇对话” DeepSeek、千问、MiniMax都来了",
-      "source": "东方财富",
-      "badge": "AI",
-      "summary": "“人工智能乌镇对话” DeepSeek、千问、MiniMax都来了 东方财富",
-      "date": "2026 年 11 月 3 日",
-      "time": "15:53 GMT",
+      "title": "Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5",
+      "source": "RSS",
+      "badge": "RSS",
+      "summary": "作者｜宇航猿 编辑｜靖宇 10 月 23 日上午，Kimi 官方在 X 和视频号上发了一段 24 秒的视频。 画面里是一台复古风格的老式电脑，屏幕上开着 Kimi Code，终端里一行行地写着 Three.js 代码，在生成一个复杂的 3D 场景。眼尖的网友很快在左上角的模型栏里找到了答案——「Model: Kimi K3.1」。 Kimi 官方发布的 K3…",
+      "date": "2026 年 10 月 26 日",
+      "time": "10:16 GMT",
       "tags": [
-        "AI",
-        "东方财富"
+        "RSS"
       ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0RmxKamRzSzNFRWdrUjgxX2lfZ1BmMU03UkpjNGNDSTNpSThmMUxOZmFPVnVNQlhXYnpCRDdmMHNsd2NiaXUtSEZXT3Z2T0hWUVMydWpYdUhGb3k1UjFvVGs5M1JFakU?oc=5",
+      "originalUrl": "http://www.geekpark.net/news/372943",
       "points": [
-        "报道聚焦““人工智能乌镇对话” DeepSeek、千问、MiniMax都来了”，核心信息来自 东方财富 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、东方财富 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 RSS 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 AI、东方财富 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、东方财富 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "deepseek-da-mo-xing",
+      "id": "zhong-tou-guo-bu-6-ai-tou-zi-jian-da-kai-ji",
       "rank": "09",
-      "title": "DeepSeek下一代大模型，昇腾芯片承担训练",
-      "source": "风闻",
+      "title": "苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机",
+      "source": "RSS",
       "badge": "AI",
-      "summary": "DeepSeek下一代大模型，昇腾芯片承担训练 风闻",
-      "date": "2026 年 11 月 3 日",
-      "time": "14:25 GMT",
+      "summary": "​到手 6 小时、开合不到 20 次屏幕就裂：苹果首批折叠屏遭集中投诉 苹果首款折叠屏手机 iPhone Duo 刚开售就遇上了麻烦：据海外论坛和小红书多人反馈，不少用户开箱即遇到屏幕爆线、开裂问题，汇总照片显示故障位置高度集中——几乎全部出现在铰链正上方，多数表现为屏幕一侧浮现一条亮像素线。 一名澳洲用户称，设备到手约 6 小时、开合不到 20 次，向朋友…",
+      "date": "2026 年 10 月 25 日",
+      "time": "00:52 GMT",
       "tags": [
         "AI",
-        "科技",
-        "风闻"
+        "财经",
+        "RSS"
       ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OOU1YbnVra3NPNV82TGM4TXdyaTJpNGZEVk5HTFVjMGh4bHR2bE94ZjhmNjNoY1FHVmt3ZnptMXlTNmpubGtMcXFGSFBCbHhvdTlyeEQ1QXlaems?oc=5",
+      "originalUrl": "http://www.geekpark.net/news/372860",
       "points": [
-        "报道聚焦“DeepSeek下一代大模型，昇腾芯片承担训练”，核心信息来自 风闻 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、科技、风闻 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、财经、RSS 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 AI、科技、风闻 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、科技、风闻 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 AI、财经、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、财经、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "deepseek-fa-bu-chuang-zuo-mo-da-mo-xing-ji",
+      "id": "iphone-duo-kimi-k3-1-pro-seedance-2-5-4k-fa-bu",
       "rank": "10",
-      "title": "DeepSeek发布创作者模式，下一代大模型计划基于华为昇腾芯片预训练",
-      "source": "ThePaper.cn",
-      "badge": "AI",
-      "summary": "DeepSeek发布创作者模式，下一代大模型计划基于华为昇腾芯片预训练 ThePaper.cn",
-      "date": "2026 年 11 月 3 日",
-      "time": "12:34 GMT",
+      "title": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道",
+      "source": "RSS",
+      "badge": "RSS",
+      "summary": "苹果首款折叠屏手机 iPhone Duo 正式交付用户 部分订单预计明年 1 月才能送达 苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强劲，加上生产供应受到限制，上市初期的现货数量相当有限，部分消费者即使在首发日下单，也可能需要等待数月…",
+      "date": "2026 年 10 月 24 日",
+      "time": "00:34 GMT",
       "tags": [
-        "AI",
-        "科技",
-        "ThePaper.cn"
+        "RSS"
       ],
-      "originalUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ETjY4WW42dU96Z2dYQUdVTVFKSnZuSGRoby1mREJHZ3ZJQXFqX1dwSF83TTBrbzBCQXpkT1VUUmlmR3h0Z3FQSUZIb1JwTlktbVhhZEUyVll1QjBqdjRIQw?oc=5",
+      "originalUrl": "http://www.geekpark.net/news/372858",
       "points": [
-        "报道聚焦“DeepSeek发布创作者模式，下一代大模型计划基于华为昇腾芯片预训练”，核心信息来自 ThePaper.cn 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、科技、ThePaper.cn 等方向，适合继续跟踪后续进展。",
+        "报道聚焦“iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 RSS 等方向，适合继续跟踪后续进展。",
         "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
       ],
-      "background": "这条新闻发生在 AI、科技、ThePaper.cn 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、科技、ThePaper.cn 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+      "background": "这条新闻发生在 RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     }
   ]
 }
