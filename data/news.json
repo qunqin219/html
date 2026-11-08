@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026 年 11 月 7 日",
+  "updatedAt": "2026 年 11 月 8 日",
   "items": [
     {
       "id": "400-mei-mei-guo-gong-si-zhong-guo-kai-yuan-mo-xing-jing",
@@ -142,8 +142,30 @@
       "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、财经、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "fen-token-ai-kai-chang",
+      "id": "ai-broke-the-cybersecurity-world-what-s-next",
       "rank": "07",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "source": "RSS",
+      "badge": "AI",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one o…",
+      "date": "2026 年 11 月 8 日",
+      "time": "05:50 GMT",
+      "tags": [
+        "AI",
+        "RSS"
+      ],
+      "originalUrl": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "points": [
+        "报道聚焦“AI broke the cybersecurity world. What’s next?”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 AI、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "fen-token-ai-kai-chang",
+      "rank": "08",
       "title": "李佳琦卖出万份Token，天猫的AI生意才刚开场",
       "source": "RSS",
       "badge": "AI",
@@ -165,7 +187,7 @@
     },
     {
       "id": "google-shi-fa-5000-mei-chuang-guan-xin-ipad-mini-60hz-xin-ti-mega",
-      "rank": "08",
+      "rank": "09",
       "title": "Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道",
       "source": "RSS",
       "badge": "AI",
@@ -188,7 +210,7 @@
     },
     {
       "id": "macbook-pro-ai-quan-ou-shi-chang",
-      "rank": "09",
+      "rank": "10",
       "title": "​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场",
       "source": "RSS",
       "badge": "AI",
@@ -209,28 +231,6 @@
       ],
       "background": "这条新闻发生在 AI、科技、财经 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
       "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、科技、财经 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "deepseek-da",
-      "rank": "10",
-      "title": "DeepSeek，怎么就变成了一条「大肥鱼」",
-      "source": "RSS",
-      "badge": "AI",
-      "summary": "作者｜Moonshot 编辑｜靖宇 最近，B 站评论区闹起了「鱼灾」。 先是有人开了个「Claude 大小姐在运营」的账号，让 AI 负责选题、制作和运营。第二天，「DeepSeek 鲸鱼娘在运营」跟着上线，第一条视频播放量就超过了 200 万。 由于目前 DeepSeek 暂无生图功能，该账号形象还是由 GPT 绘制的。｜图源：Bilibili 网友纷纷效…",
-      "date": "2026 年 11 月 1 日",
-      "time": "09:57 GMT",
-      "tags": [
-        "AI",
-        "RSS"
-      ],
-      "originalUrl": "http://www.geekpark.net/news/373248",
-      "points": [
-        "报道聚焦“DeepSeek，怎么就变成了一条「大肥鱼」”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 AI、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     }
   ]
 }
