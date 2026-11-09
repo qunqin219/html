@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026 年 11 月 8 日",
+  "updatedAt": "2026 年 11 月 9 日",
   "items": [
     {
-      "id": "400-mei-mei-guo-gong-si-zhong-guo-kai-yuan-mo-xing-jing",
+      "id": "chatgpt-200-mei-pro-ai-gong-si-chan-mo-xing",
       "rank": "01",
+      "title": "黄仁勋承认「婚外情」，英伟达启动调查；ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈「AI 公司护城河」：在产品层，而不是模型层",
+      "source": "RSS",
+      "badge": "AI",
+      "summary": "黄仁勋承认「婚外情」，英伟达启动调查 11 月 9 日消息，英伟达 CEO 黄仁勋当地时间 8 日于公司官网发布致全员公开信，就个人私事致歉，同时披露董事会将针对相关报道提及的国家安全关切展开独立调查。 黄仁勋在信中承认自己对妻子不忠，坦言该行为伤害家人，对此承担全部责任，并接受外界批评。他表示家人不应为其个人选择负责，恳请公众给予家人隐私空间，希望能有机会…",
+      "date": "2026 年 11 月 9 日",
+      "time": "02:58 GMT",
+      "tags": [
+        "AI",
+        "RSS"
+      ],
+      "originalUrl": "http://www.geekpark.net/news/373687",
+      "points": [
+        "报道聚焦“黄仁勋承认「婚外情」，英伟达启动调查；ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈「AI 公司护城河」：在产品层，而不是模型层”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 AI、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "400-mei-mei-guo-gong-si-zhong-guo-kai-yuan-mo-xing-jing",
+      "rank": "02",
       "title": "估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对",
       "source": "RSS",
       "badge": "AI",
@@ -27,7 +49,7 @@
     },
     {
       "id": "zhong-mei-guo-gu-ri-5-52-bu-ren-gong-zhi-neng-fa-openai-gpt-6-cyber",
-      "rank": "02",
+      "rank": "03",
       "title": "中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber",
       "source": "RSS",
       "badge": "AI",
@@ -51,7 +73,7 @@
     },
     {
       "id": "apple-zhi-neng-guo-xing-da-6-mei-gu-shi-zhang-zhong-guo-neng-1-gong-ren-",
-      "rank": "03",
+      "rank": "04",
       "title": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道",
       "source": "RSS",
       "badge": "AI",
@@ -75,7 +97,7 @@
     },
     {
       "id": "grok-bot-altman-ren-quan-400-fen",
-      "rank": "04",
+      "rank": "05",
       "title": "马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份",
       "source": "RSS",
       "badge": "科技",
@@ -99,7 +121,7 @@
     },
     {
       "id": "deepseek-gong-bu-super-agent-shi-meta-muse-ji-ren",
-      "rank": "05",
+      "rank": "06",
       "title": "DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人",
       "source": "RSS",
       "badge": "RSS",
@@ -120,7 +142,7 @@
     },
     {
       "id": "apple-zhi-neng-deepseek-1055-zi-6155-gu-kai-30",
-      "rank": "06",
+      "rank": "07",
       "title": "苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道",
       "source": "RSS",
       "badge": "AI",
@@ -140,28 +162,6 @@
       ],
       "background": "这条新闻发生在 AI、财经、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
       "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、财经、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "ai-broke-the-cybersecurity-world-what-s-next",
-      "rank": "07",
-      "title": "AI broke the cybersecurity world. What’s next?",
-      "source": "RSS",
-      "badge": "AI",
-      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one o…",
-      "date": "2026 年 11 月 8 日",
-      "time": "05:50 GMT",
-      "tags": [
-        "AI",
-        "RSS"
-      ],
-      "originalUrl": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "points": [
-        "报道聚焦“AI broke the cybersecurity world. What’s next?”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 AI、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
       "id": "fen-token-ai-kai-chang",
