@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026 年 11 月 10 日",
+  "updatedAt": "2026 年 11 月 11 日",
   "items": [
     {
       "id": "41-ren-she-3-da-ren-he-20-xin-mo-xing",
@@ -25,8 +25,31 @@
       "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、中国、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
-      "id": "chatgpt-quan-qiu-ai-81-ios-27-3-siri-ren-he-zuo-xin",
+      "id": "anthropic-ipo-chuang-ren-17-5-mei-ai-mo-xing-kai-fang-xin-jing",
       "rank": "02",
+      "title": "Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员",
+      "source": "RSS",
+      "badge": "AI",
+      "summary": "英伟达董事会聘请前美国联邦检察官，调查 CEO 黄仁勋相关事件 11 月 11 日消息，英伟达发布公告，宣布已聘请美国前联邦检察官金正贤（Joon H. Kim）及其所在的律师事务所 Wachtell, Lipton, Rosen & Katz，负责开展一项全面、独立的调查。 此前，英伟达董事会表示，鉴于近期有关公司创始人兼 CEO 黄仁勋可能成为外国情报机…",
+      "date": "2026 年 11 月 11 日",
+      "time": "00:34 GMT",
+      "tags": [
+        "AI",
+        "国际",
+        "RSS"
+      ],
+      "originalUrl": "http://www.geekpark.net/news/373796",
+      "points": [
+        "报道聚焦“Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、国际、RSS 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 AI、国际、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、国际、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
+      "id": "chatgpt-quan-qiu-ai-81-ios-27-3-siri-ren-he-zuo-xin",
+      "rank": "03",
       "title": "ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道",
       "source": "RSS",
       "badge": "AI",
@@ -48,8 +71,30 @@
       "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、国际、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
+      "id": "hy4-da-mo-xing",
+      "rank": "04",
+      "title": "实测 HY4：腾讯最「夯」大模型，离一线还有多远？",
+      "source": "RSS",
+      "badge": "AI",
+      "summary": "头图来源：腾讯混元 11 月 4 日，混元 Hy4 正式发布，模型权重将在近期开源，主打性价比的轻量版 Hy4 flash 也一起亮相。腾讯给它的定位是——首次跻身最强开源模型之列。 过去一年，腾讯在 AI 上最多被人看见的，是 WorkBuddy 这类 Agent 和应用产品；到了更底层的模型上，它的声量明显弱于应用。Hy4 真正要回答的，是腾讯在模型这条…",
+      "date": "2026 年 11 月 9 日",
+      "time": "03:57 GMT",
+      "tags": [
+        "AI",
+        "RSS"
+      ],
+      "originalUrl": "http://www.geekpark.net/news/373644",
+      "points": [
+        "报道聚焦“实测 HY4：腾讯最「夯」大模型，离一线还有多远？”，核心信息来自 RSS 的公开报道。",
+        "从关键词看，这条新闻主要关联 AI、RSS 等方向，适合继续跟踪后续进展。",
+        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
+      ],
+      "background": "这条新闻发生在 AI、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
+      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
+    },
+    {
       "id": "chatgpt-200-mei-pro-ai-gong-si-chan-mo-xing",
-      "rank": "03",
+      "rank": "05",
       "title": "黄仁勋承认「婚外情」，英伟达启动调查；ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈「AI 公司护城河」：在产品层，而不是模型层",
       "source": "RSS",
       "badge": "AI",
@@ -71,7 +116,7 @@
     },
     {
       "id": "400-mei-mei-guo-gong-si-zhong-guo-kai-yuan-mo-xing-jing",
-      "rank": "04",
+      "rank": "06",
       "title": "估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对",
       "source": "RSS",
       "badge": "AI",
@@ -95,7 +140,7 @@
     },
     {
       "id": "zhong-mei-guo-gu-ri-5-52-bu-ren-gong-zhi-neng-fa-openai-gpt-6-cyber",
-      "rank": "05",
+      "rank": "07",
       "title": "中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber",
       "source": "RSS",
       "badge": "AI",
@@ -119,7 +164,7 @@
     },
     {
       "id": "apple-zhi-neng-guo-xing-da-6-mei-gu-shi-zhang-zhong-guo-neng-1-gong-ren-",
-      "rank": "06",
+      "rank": "08",
       "title": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道",
       "source": "RSS",
       "badge": "AI",
@@ -143,7 +188,7 @@
     },
     {
       "id": "grok-bot-altman-ren-quan-400-fen",
-      "rank": "07",
+      "rank": "09",
       "title": "马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份",
       "source": "RSS",
       "badge": "科技",
@@ -164,50 +209,6 @@
       ],
       "background": "这条新闻发生在 科技、财经、国际 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
       "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 科技、财经、国际 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "deepseek-gong-bu-super-agent-shi-meta-muse-ji-ren",
-      "rank": "08",
-      "title": "DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人",
-      "source": "RSS",
-      "badge": "RSS",
-      "summary": "​DeepSeek 发布全新 Agent 架构 10 月 31 日晚间，DeepSeek Harness 团队在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。 DeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任…",
-      "date": "2026 年 11 月 1 日",
-      "time": "00:29 GMT",
-      "tags": [
-        "RSS"
-      ],
-      "originalUrl": "http://www.geekpark.net/news/373243",
-      "points": [
-        "报道聚焦“DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 RSS 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
-    },
-    {
-      "id": "apple-zhi-neng-deepseek-1055-zi-6155-gu-kai-30",
-      "rank": "09",
-      "title": "苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道",
-      "source": "RSS",
-      "badge": "AI",
-      "summary": "国行 Apple 智能确定上线时间：11 月开放测试，千问接入 Siri 10 月 31 日，苹果宣布，国行 Apple 智能首批功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月随 iOS 27.3 正式面向用户推出。首批功能包括实时翻译、写作工具、照片消除、智绘表情和通知摘要等，支持 iPhone 15 Pro 系列、iPhon…",
-      "date": "2026 年 10 月 31 日",
-      "time": "00:03 GMT",
-      "tags": [
-        "AI",
-        "财经",
-        "RSS"
-      ],
-      "originalUrl": "http://www.geekpark.net/news/373220",
-      "points": [
-        "报道聚焦“苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道”，核心信息来自 RSS 的公开报道。",
-        "从关键词看，这条新闻主要关联 AI、财经、RSS 等方向，适合继续跟踪后续进展。",
-        "如果需要更完整的事实细节和上下文，应点击原始报道查看全文。"
-      ],
-      "background": "这条新闻发生在 AI、财经、RSS 持续受到关注的背景下。公开报道显示，事件涉及的主体、政策环境和市场预期仍在变化，因此需要结合原文和后续报道理解其完整脉络。",
-      "impact": "短期内，这一事件可能影响相关参与方的市场判断和舆论关注；中长期看，它也可能成为观察 AI、财经、RSS 走向的一个信号。页面摘要仅提供快速浏览，具体判断仍应以原始报道为准。"
     },
     {
       "id": "chatgpt-da-mo-tim-da-shu-ren-da-7",
